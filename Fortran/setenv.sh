@@ -9,6 +9,6 @@ echo 'NUM THREADS  ' $OMP_NUM_THREADS
 ulimit -s unlimited
 
 make clean
-rm Main
-make hpcrelease
-./Main
+rm MyOutput
+make release
+./MyOutput.out
