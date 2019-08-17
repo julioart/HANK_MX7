@@ -6,7 +6,7 @@ FCFLAGS = -m64 -traceback -O3 -qopenmp -implicitnone -xSSE4.2 -axAVX   -lumfpack
 LDFLAGS = -m64 -traceback -O3 -qopenmp -implicitnone -xSSE4.2 -axAVX   -lumfpack -lamd -lcholmod -lcolamd -lsuitesparseconfig  -lblas
 
 
-OUT = MyOutput
+#OUT = MyOutput
 
 PROG = $(OUT)
 
@@ -18,22 +18,8 @@ SUBR = 	AllocateArrays.o SetParameters.o Grids.o IterateBellman.o HJBUpdate.o cu
 
 OBJ = $(MOD) $(SUBR)
 
-$(PROG).out: $(OBJ) Main.o
-	$(FC) $(FCFLAGS) -o $@ $^ $(LDFLAGS)
-Main.o: $(MOD)
-
-%: %.o
-	$(FC) $(FCFLAGS) -o $@ $^ $(LDFLAGS)
+Main: $(OBJ) Main.o
+        $(FC) $(LDFLAGS)   $^ -o  $@ $(FCFLAGS)
 
 %.o: %.f90
-	$(FC) $(FCFLAGS) -c $<
-
-
-# in HANK_ori/Fortran these are the last lines
-#OBJ = $(MOD) $(SUBR)
-
-#Main: $(OBJ) Main.o
-#        $(FC) $(LDFLAGS)   $^ -o  $@ $(FCFLAGS)
-
-#%.o: %.f90
-#        $(FC) $(FCFLAGS) -c $<
+        $(FC) $(FCFLAGS) -c $<
