@@ -26,7 +26,7 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 0
+CalibrateDiscountRate	= 1
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
 DoImpulseResponses 		= 1
@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 0
+CalibrateCostFunction				= 1
 CalibrateRhoAtInitialGuess  = 0!1
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -92,13 +92,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
+EstimateKappa0		= 1
 EstimateKappa1		= 0
-EstimateKappa2		= 0
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
-EstimateBorrWedge	= 0
+EstimateBorrWedge	= 1
 EstimateGamma			= 0
 
 
@@ -231,7 +231,7 @@ targetFracIll0Liq0= 0.32
 ! All hand to mouth
 targetFracLiq0 		= 0.50 ! Rich HtM = targetFracLiq0 - targetFracIll0Liq0
 ! Indebted HH
-targetFracLiqNEG	= 0.12
+targetFracLiqNEG	= 0.11
 ! HH without illiui wealth (at least equal to targetFracIll0Liq0)
 targetFracIll0 		= 0.30 + 0.20 !NOT REALLY A TARGET
 
