@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 1
+CalibrateCostFunction				= 0
 CalibrateRhoAtInitialGuess  = 0!1
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -92,9 +92,9 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 1
+EstimateKappa0		= 0
 EstimateKappa1		= 0
-EstimateKappa2		= 1
+EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
@@ -151,7 +151,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.666932351347069E-002!0.026!
+rho		=  2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -162,7 +162,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.03/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 0.033777591129011!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 3.304084259071276E-002!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -171,7 +171,7 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 0.08!CALIBRATED
-kappa2_w	= 0.5!CALIBRATED
+kappa2_w	= 0.51!CALIBRATED
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
