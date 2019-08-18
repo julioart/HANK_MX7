@@ -26,7 +26,7 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 1
+CalibrateDiscountRate	= 0
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
 DoImpulseResponses 		= 1
@@ -98,7 +98,7 @@ EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
-EstimateBorrWedge	= 1
+EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 
@@ -151,7 +151,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.666377198040875E-002
+rho		=  2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -171,7 +171,7 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 0.08!CALIBRATED
-kappa2_w	= 0.51!CALIBRATED
+kappa2_w	= 0.5!CALIBRATED
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
@@ -197,7 +197,7 @@ rnom = rb + pi		!nominal interest rate (fisher equation): this will be constant 
 mpshock 	= 0.0		!shock to nominal interest rate in taylor rule
 
 tfp 	= 1.0
-elast 	= 10.0 !elasticity of DS aggregator
+elast = 10.0 !elasticity of DS aggregator
 gap 	= 0.0 !steady state output gap
 mc = (elast-1.0)/elast
 
