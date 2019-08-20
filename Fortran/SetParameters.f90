@@ -14,7 +14,7 @@ INTEGER 	:: iy
 REAL 		:: la,lb,lc
 
 !OUTPUT DIR
-OutputDir =	"~/FortranOutputDir/MXtry7/"
+OutputDir =	"~/FortranOutputDir/MXtry10_inc/"
 EarningsProcessDir	= "earnings_input_MX"
 
 CALL system ("mkdir -p " // trim(OutputDir))
@@ -68,7 +68,7 @@ bondadjust 									= 0.1 !more responsive interest rate when closer to zero
 DividendFundLumpSum 			= 1
 DistributeProfitsInProportion 	= 1 !distributes profdistfrac of profits as dividends, and (1-profdistfrac) to households in proportion to productivity
 !profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
-profdistfrac 							= 0.35 !set higher alpha to decrease response of investment
+profdistfrac 							= 0.36 !set higher than alpha to decrease response of investment
 TaxHHProfitIncome 				= 1 !taxes profit income at labor tax rate if DistributeProfitsInProportion = 1
 
 
@@ -92,13 +92,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 1
+EstimateKappa0		= 0
 EstimateKappa1		= 0
-EstimateKappa2		= 1
+EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
-EstimateRho				= 1
-EstimateBorrWedge	= 1
+EstimateRho				= 0
+EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 

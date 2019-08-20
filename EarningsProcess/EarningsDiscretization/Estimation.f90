@@ -11,8 +11,12 @@ REAL(8), ALLOCATABLE	:: x(:),w(:),f(:)
 
 !draw random numbers
 isize = 2
-iseed(1) = 7755
-iseed(2) = 7744
+!iseed(1) = 7755
+!iseed(2) = 7744
+
+iseed(1) = 2457
+iseed(2) = 2456
+
 CALL RANDOM_SEED(size = isize)
 CALL RANDOM_SEED(put = iseed)
 CALL RANDOM_NUMBER(y1rand)
@@ -43,7 +47,7 @@ IF(EstimateY1GridPar==1) THEN
 END IF
 IF(EstimateY2GridPar==1) THEN
 	ip = ip+1
-	paramguess(ip) = invlogistic((y2gridparguess-y2gridmin)/(1.0-y2gridmin))	
+	paramguess(ip) = invlogistic((y2gridparguess-y2gridmin)/(1.0-y2gridmin))
 END IF
 
 paramscale = 1.0
@@ -69,7 +73,7 @@ x = paramguess*paramscale
 npt = 2*nparam+1
 IF(ALLOCATED(w)) DEALLOCATE(w)
 ALLOCATE(w((npt+11)*(npt+nparam) +nparam*(3*nparam+11)/2) )
-maxfun = 500*(nparam+1) 
+maxfun = 500*(nparam+1)
 objeval = 0
 OPEN(4, FILE = trim(OutputDir) // 'iterations' //   '.txt', STATUS = 'replace')
 DO j = 1,ndfls

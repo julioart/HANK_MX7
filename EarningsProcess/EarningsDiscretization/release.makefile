@@ -2,6 +2,8 @@ FC = ifort
 FCFLAGS = -m64 -traceback -O3 -qopenmp -implicitnone  -Wl,-stack_size,0x100000000
 LDFLAFS = -m64 -traceback -O3 -qopenmp -implicitnone  -Wl,-stack_size,0x100000000
 
+OUT = MyOutput
+
 PROG = $(OUT)
 
 MOD = Parameters.o Globals.o Procedures.o random.o

@@ -1,12 +1,13 @@
 
-clc;
+% clc;
 clear;
 close all;
 
 
 %% LOAD WORKSPACES
 % InputDir = '~/FortranOutputDir/BaselineOutputSubdir/'; %path to fortran output
-InputDir = '~/FortranOutputDir/OnlySS/'; %path to fortran output
+% InputDir = '~/FortranOutputDir/MXtry0/'; %path to fortran output
+InputDir = '~/FortranOutputDir/HPCMXtry10_inc/'; %path to fortran output
 load([InputDir '/Steadystate_workspace.mat']);
 
 %% Lorenz curve illiquid wealth
@@ -50,7 +51,7 @@ liq_gini = initss.GINIb;
 %% SCALAR TABLES FOR CALIBRATION
 format long;
 disp(' ');
-disp(['Mean Iliquid Wealth  = '  ,num2str(initss.Ea./(4*initss.output))]);
+disp(['Mean Iliquid Wealth  = '  ,num2str(round(initss.Ea./(4*initss.output)*100)/100)]);
 disp(['Mean Liquid Wealth   = '  ,num2str(round(initss.Eb./(4*initss.output)*100)/100)]);
 disp(['Frac $b=0$ and $a=0$ = '  ,num2str(round(initss.FRACb0a0*100)/100)]);
 disp(['Frac $b=0$ and $a>0$ = '  ,num2str(round(initss.FRACb0aP*100)/100)]);

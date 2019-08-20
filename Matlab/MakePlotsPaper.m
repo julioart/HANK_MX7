@@ -1,10 +1,13 @@
 clc;
 clear;
-close all;
+% close all;
 
 %% PARAMETERS
 InputDir = '~/FortranOutputDir/BaselineOutputSubdir/'; %path to fortran output
 lSaveDir = '~/FortranOutputDir/BaselineOutputSubdir/Figures'; %path to directory to save figures
+
+% InputDir = '~/FortranOutputDir/HPCMXtry8/'; %path to fortran output
+% lSaveDir = '~/FortranOutputDir/HPCMXtry8/Figures'; %path to directory to save figures
 
 lSave = 0;
 
@@ -472,6 +475,9 @@ grid on;
 legend({'Output' 'Consumption' 'Investment'},'Location','Best','Interpreter','latex');
 xlim(tlim);
 % ylim([-1.5 0.5]);
+ylim([-.5 2]);
+
+xlim([0 8])
 hold off;
 ylabel('Deviation (\%)', 'interpreter','latex','FontSize',30);
 xlabel('Quarters', 'interpreter','latex','FontSize',30);

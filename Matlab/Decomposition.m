@@ -5,6 +5,10 @@ close all;
 %% PARAMETERS
 InputDir = '~/FortranOutputDir/BaselineOutputSubdir/'; %path to fortran output
 
+InputDir = '~/FortranOutputDir/HPCMXtry8/'; %path to fortran output
+
+% InputDir = '~/FortranOutputDir/MXtry5/'; %path to fortran output
+% 
 nexp = 15;
 
 %% load workspaces
@@ -29,6 +33,8 @@ BW = -(initss.rborr - initss.rb).*initss.EbN;
 RE = initss.profit - initss.dividend;
 PA = initss.priceadjust;
 
+PI = initss.pi;
+
 AD = C + I + G + AC + NX + BW + PA;
 Y = initss.output;
 
@@ -37,6 +43,7 @@ Itot_hh = (initss.Ea-initss.equity).*initss.deprec;
     
 
 Rb = initss.rb;
+
 
 %% transition components
 
@@ -50,6 +57,8 @@ bmk.BW = -(NOFS.sticky.rborr - NOFS.sticky.rb).*NOFS.sticky.EbN;
 bmk.RE = NOFS.sticky.profit - NOFS.sticky.dividend;
 bmk.PA = NOFS.sticky.priceadjust;
 
+bmk.PI = NOFS.sticky.pi;
+
 bmk.Ctot = bmk.C + bmk.AC + bmk.BW;
  
 bmk.AD = bmk.Ctot + bmk.I + bmk.G + bmk.NX + bmk.BW + bmk.PA;
@@ -58,7 +67,8 @@ bmk.Y = NOFS.sticky.output;
 
 bmk.Rb = NOFS.sticky.rb;
 
-%%
+%% Price experiments
+
 for i = 1:nexp
     pe{i}.C = PE{i}.sticky.Ec;
     pe{i}.I = PE{i}.sticky.investment;
@@ -69,6 +79,8 @@ for i = 1:nexp
     pe{i}.RE = NOFS.sticky.profit - NOFS.sticky.dividend;
     pe{i}.PA = NOFS.sticky.priceadjust;
     pe{i}.Ctot = pe{i}.C+pe{i}.AC +pe{i}.BW;
+    
+    pe{i}.PI = PE{i}.sticky.pi;
 
     
 end    
@@ -76,6 +88,9 @@ end
 
 ACres = Y - (AD - AC);
 bmk.ACres = bmk.Y - (bmk.AD - bmk.AC);
+
+% A =[C+BW I G ACres]/Y
+
 
  %% decompose deviations from steady state
  
@@ -90,6 +105,7 @@ bmk.ACres = bmk.Y - (bmk.AD - bmk.AC);
  dtot.PA = (bmk.PA-PA);
  dtot.AD = (bmk.AD-AD);
  dtot.Ctot = (bmk.Ctot-Ctot);
+ dtot.PI = (bmk.PI-PI);
 %  dtot.Itot_hh = (bmk.Itot_hh-Itot_hh);
  
   %%
@@ -101,6 +117,8 @@ var = {'C','I','AC','BW','Ctot'};
     
  end    
 
+ 
+ 
 %% tables
 
 tsetA{1} = 1;
@@ -124,53 +142,68 @@ for col = 1:4
     tset = tsetA{col};
     tsetRb = tsetRb_A{col};
     
+%     1
     %real rate change
     row = 1;
 %     tab(row,col) = sum(bmk.Rb(tset).*tstep(tset))./ sum(tstep(tset))-Rb ;
     tab(row,col) = sum(bmk.Rb(tsetRb).*tstep(tsetRb))./ sum(tstep(tsetRb))-Rb ;
     elastdenom(1,col) = sum(bmk.Rb(tsetRb).*tstep(tsetRb))./ sum(tstep(tsetRb))-Rb ;
     
+%     2
     %nominal rate change
     row = row+1;
     tab(row,col) = (sum(NOFS.sticky.rnom(tset).*tstep(tset))./ sum(tstep(tset))-initss.rnom) ;
 
+%     3
     %inflation change
     row = row+1;
     tab(row,col) = (sum(NOFS.sticky.pi(tset).*tstep(tset))./ sum(tstep(tset))-initss.pi) ;
 
+%     4
     %marginal cost change
     row = row+1;
     tab(row,col) = (sum(NOFS.sticky.mc(tset).*tstep(tset))./ sum(tstep(tset))-initss.mc)./initss.mc;
 
+%     5
     %profit change
     row = row+1;
     tab(row,col) = (sum(NOFS.sticky.profit(tset).*tstep(tset))./ sum(tstep(tset))-initss.profit)./initss.profit;
 
+%     6
     %equity change
     row = row+1;
     tab(row,col) = (sum(NOFS.sticky.equity(tset).*tstep(tset))./ sum(tstep(tset))-initss.equity)./initss.equity;
 
+%     7
     %Y change and elasticity
     row = row+1;
     tab(row,col) = sum(dtot.Y(tset).*tstep(tset)./Y)./ sum(tstep(tset));
+
+%     8
     row = row+1;
     tab(row,col) = tab(row-1,col) ./ elastdenom(1,col) ;
 
+%     9
     %I change and elasticity
     row = row+1;
     tab(row,col) = sum(dtot.I(tset).*tstep(tset)./I)./ sum(tstep(tset));
+%     10
     row = row+1;
     tab(row,col) = tab(row-1,col) ./ elastdenom(1,col) ;
 
+%     11
     %G change and elasticity
     row = row+1;
     tab(row,col) = sum(dtot.G(tset).*tstep(tset)./G)./ sum(tstep(tset));
+%     12
     row = row+1;
     tab(row,col) = tab(row-1,col) ./ elastdenom(1,col) ;
 
+%     13
     %C change and elasticity
     row = row+1;
     tab(row,col) = sum(dtot.C(tset).*tstep(tset)./C)./ sum(tstep(tset));
+%     14
     row = row+1;
     tab(row,col) = tab(row-1,col) ./ elastdenom(1,col) ;
 
@@ -220,6 +253,14 @@ for col = 1:4
     tab(row,col) = sum(dpe{13}.C(tset).*tstep(tset))./sum(dtot.C(tset));
 
     
+    %PI change and elasticity
+    row = row+1;
+    tab(row,col) = sum(dtot.PI(tset).*tstep(tset))./ sum(tstep(tset));
+    row = row+1;
+    tab(row,col) = tab(row-1,col) ./ elastdenom(1,col) ;
+
+    
+    
 end    
 
 % % table for paper:
@@ -240,23 +281,50 @@ end
 
 %%
 
-clc
+% clc
 % table for paper:
-finaltable = zeros(9,1);
-finaltable(1) = 4*tab(1,4)*100;
-finaltable(2) = tab(8,4);
-finaltable(3) = tab(10,4);
-finaltable(4) = tab(14,4);
-finaltable(5) = tab(13,4)*tab(15,4)/tab(1,4);
-finaltable(6) = tab(15,4)*100;
-finaltable(7) = tab(16,4)*100;
-finaltable(8) = tab(19,4)*100;
-finaltable(9) = (tab(17,4)+tab(18,4))*100;
+% finaltable = zeros(10,2);
 
-finaltable = round(finaltable*100)/100;
-finaltable(6:9) = round(finaltable(6:9));
+clear finaltable
+
+i = 1;
+
+list_row = 0;
+if list_row
+    %number of row
+    finaltable(:,1) = 1:10;
+    i = i + 1;
+end
+
+%Change in rb
+finaltable(1,i) = 4*tab(1,4)*100;
+%elast Y
+finaltable(2,i) = tab(8,4);
+%elast I
+finaltable(3,i) = tab(10,4);
+%elast C
+finaltable(4,i) = tab(14,4);
+%PE elast C
+finaltable(5,i) = tab(13,4)*tab(15,4)/tab(1,4);
+%Direct eff
+finaltable(6,i) = tab(15,4)*100;
+%Indirect eff:wages
+finaltable(7,i) = tab(16,4)*100;
+%Indirect eff:Transfers
+finaltable(8,i) = tab(19,4)*100;
+%Indirect eff:asset prices
+finaltable(9,i) = (tab(17,4)+tab(18,4))*100;
+%Elast PI
+finaltable(10,i) = tab(27,4);
+
+finaltable = round(finaltable*10)/10;
+finaltable(6:9,i) = round(finaltable(6:9,i));
 
 format short;
+disp('Input for table 7 - last row is elast of pi');
+
 disp(finaltable);
 
+disp('Slope of Inflation-Output Trade-off');
+finaltable(10,i)/finaltable(2,i)*4
 

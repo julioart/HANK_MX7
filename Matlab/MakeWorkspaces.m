@@ -1,4 +1,6 @@
-clear all;clc;
+clear;%clc;
+
+backdir = pwd;
 
 %% Parameters
 
@@ -6,7 +8,7 @@ clear all;clc;
 BaseOutputDir = '~/FortranOutputDir/';
 
 %list of output directories to process
-explist{1} = 'OnlySS';
+explist{1} = 'HPCMXtry10';
 
 %%
 
@@ -75,4 +77,8 @@ for ie = 1:numel(explist)
     %% Back to base directory
     cd ..
 end            
-         
+        
+%%
+
+cd /Users/julioartcarrillo/Documents/Work@home/HANK/Codigos/HANK_MX/Matlab
+ComputeMoments
