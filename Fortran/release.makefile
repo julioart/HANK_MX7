@@ -1,6 +1,6 @@
 FC = ifort
-FCFLAGS = -m64 -traceback -O3 -qopenmp -implicitnone  -Wl,-stack_size,0x100000000 -L/Users/julioartcarrillo/Documents/Work@home/HANK/Codigos/SuiteSparse/lib -lumfpack -lamd -lcholmod -lcolamd -lsuitesparseconfig -lblas
-LDFLAFS = -m64 -traceback -O3 -qopenmp -implicitnone  -Wl,-stack_size,0x100000000 -L/Users/julioartcarrillo/Documents/Work@home/HANK/Codigos/SuiteSparse/lib -lumfpack -lamd -lcholmod -lcolamd -lsuitesparseconfig -lblas
+FCFLAGS = -m64 -traceback -O3 -qopenmp -implicitnone -xSSE4.2 -axAVX -lumfpack -lamd -lcholmod -lcolamd -lsuitesparseconfig -lblas
+LDFLAFS = -m64 -traceback -O3 -qopenmp -implicitnone -xSSE4.2 -axAVX -lumfpack -lamd -lcholmod -lcolamd -lsuitesparseconfig -lblas
 # -O3
 
 OUT = MyOutput
