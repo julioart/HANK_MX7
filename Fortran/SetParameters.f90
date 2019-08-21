@@ -26,10 +26,10 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 0
+CalibrateDiscountRate	= 1
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 0
+DoImpulseResponses 		= 1
 DoPriceExperiments		= 1!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 0
+CalibrateCostFunction				= 1
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -58,7 +58,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 1
 
 !transition computation options
-SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -92,13 +92,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
+EstimateKappa0		= 1
 EstimateKappa1		= 0
-EstimateKappa2		= 0
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
-EstimateBorrWedge	= 0
+EstimateBorrWedge	= 1
 EstimateGamma			= 0
 
 
@@ -161,7 +161,7 @@ prefshock	= 1.0
 
 
 !liquid assets
-rb					= 0.035/4.0 !liquid return 3% for Mexico in real termsm
+rb					= 0.03/4.0 !liquid return 3% for Mexico in real termsm
 borrwedge 	= 4.0E-002!3.304084259071276E-002!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
