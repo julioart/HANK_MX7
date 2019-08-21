@@ -7,9 +7,9 @@ integer,parameter  ::  TwoPointWageProcess 		= 0	!set ngpy=2
 integer,parameter  ::  Borrowing				= 1
 
 !GRID SIZES
-integer,parameter :: ngpa		= 40 !2		    !grid for illiquid assets
-integer,parameter :: ngpbPOS	= 40 !60		    !grid for liquid assets, >=0 range
-integer,parameter :: ngpbNEG	= 10		    !grid for liquid assets, <0 range only active if Borrowing==1
+integer,parameter :: ngpa		= 50!40 !2		    !grid for illiquid assets
+integer,parameter :: ngpbPOS	= 50!40 !60		    !grid for liquid assets, >=0 range
+integer,parameter :: ngpbNEG	= 15!10		    !grid for liquid assets, <0 range only active if Borrowing==1
 integer,parameter :: ngpb		= ngpbPOS + Borrowing*ngpbNEG
 integer,parameter :: ngpy		= 33 !30
 integer,parameter :: naby		= ngpa*ngpb*ngpy
@@ -18,7 +18,7 @@ integer,parameter :: nab		= ngpa*ngpb
 !PARAMETERS FOR GRID CONSTRUCTION
 real(8), parameter   :: agridparam = 0.35!0.15 !0.9 !0.15		!for a: approaches linear as goes to 1, approaches L shaped as goes to 0
 real(8), parameter   :: bgridparam = 0.4!0.35 !0.25 !0.35		!for b pos: approaches linear as goes to 1, approaches L shaped as goes to 0
-real(8), parameter   :: bgridparamNEG = 0.4		!for b neg: approaches linear as goes to 1, approaches L shaped as goes to 0
+real(8), parameter   :: bgridparamNEG = 0.3!0.4		!for b neg: approaches linear as goes to 1, approaches L shaped as goes to 0
 real(8), parameter   :: amax  = 2000.0 !0.1 !2000.0			!multiple of quarterly output
 real(8), parameter   :: bmax  = 40.0 !500.0 !40.0
 
