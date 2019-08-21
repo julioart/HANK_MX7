@@ -151,7 +151,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  1.8E-002!2E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -211,7 +211,7 @@ utilelastalpha  = 1.0 + utilelast-alpha*utilelast
 
 !government
 labtax 		= 0.2!LOWER THAN THE US
-lumptransferpc = 0.004!0.006!SIMILAR NUMBER THAN THE US...40000*labtax/(115000.0*2.92*4.0)
+lumptransferpc = 0.01!0.006!SIMILAR NUMBER THAN THE US...40000*labtax/(115000.0*2.92*4.0)
 ! lumptransfer = 0.10
 corptax 		= 0.0
 ssdebttogdp 	= 0.26*4 !if foreign sector assumed to hold residual bonds
