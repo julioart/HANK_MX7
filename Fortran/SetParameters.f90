@@ -151,7 +151,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.715402482613766E-002!2.666377198040875E-002
+rho		=  2E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -161,8 +161,8 @@ prefshock	= 1.0
 
 
 !liquid assets
-rb					= 0.03/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 3.304084259071276E-002!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
+rb					= 0.035/4.0 !liquid return 3% for Mexico in real termsm
+borrwedge 	= 4.0E-002!3.304084259071276E-002!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -170,8 +170,8 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 0.08!CALIBRATED
-kappa2_w	= 0.5!CALIBRATED
+kappa0_w	= 0.04!CALIBRATED
+kappa2_w	= 0.8!CALIBRATED
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
