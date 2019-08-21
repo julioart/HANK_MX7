@@ -7,7 +7,7 @@ integer,parameter  ::  TwoPointWageProcess 		= 0	!set ngpy=2
 integer,parameter  ::  Borrowing				= 1
 
 !GRID SIZES
-integer,parameter :: ngpa		= 50!40 !2		    !grid for illiquid assets
+integer,parameter :: ngpa		= 40 !2		    !grid for illiquid assets
 integer,parameter :: ngpbPOS	= 40 !60		    !grid for liquid assets, >=0 range
 integer,parameter :: ngpbNEG	= 10		    !grid for liquid assets, <0 range only active if Borrowing==1
 integer,parameter :: ngpb		= ngpbPOS + Borrowing*ngpbNEG
