@@ -211,7 +211,7 @@ utilelastalpha  = 1.0 + utilelast-alpha*utilelast
 
 !government
 labtax 		= 0.2!LOWER THAN THE US
-lumptransferpc = 0.006!SIMILAR NUMBER THAN THE US...40000*labtax/(115000.0*2.92*4.0)
+lumptransferpc = 0.004!0.006!SIMILAR NUMBER THAN THE US...40000*labtax/(115000.0*2.92*4.0)
 ! lumptransfer = 0.10
 corptax 		= 0.0
 ssdebttogdp 	= 0.26*4 !if foreign sector assumed to hold residual bonds
