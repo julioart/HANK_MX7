@@ -92,9 +92,9 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
-EstimateKappa1		= 0
-EstimateKappa2		= 0
+EstimateKappa0		= 1
+EstimateKappa1		= 1
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
@@ -102,15 +102,15 @@ EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 
-MatchMeanIll		= 1 !FOR MEXICO, MATCH THIS ONE
+MatchMeanIll		= 0!1 !FOR MEXICO, MATCH THIS ONE
 MatchKYratio		= 0 !DO NOT MATCH THIS ONE
 MatchMedianIll	= 0
 MatchP75Ill			= 0
 MatchFracIll0		= 0
 MatchMeanLiq		= 0 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
 MatchMedianLiq	= 0
-MatchFracLiq0		= 1
-MatchFracLiqNeg	= 1
+MatchFracLiq0		= 0!1
+MatchFracLiqNeg	= 0!1
 MatchFracIll0Liq0 = 1!0
 
 defnbclose			= 0.0
@@ -170,7 +170,7 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 0.0!2.637183565991114E-002
+kappa0_w	= 0.05!2.637183565991114E-002
 kappa2_w	= 3!1.16488398350350
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
