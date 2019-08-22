@@ -175,7 +175,7 @@ kappa2_w	= 2!1.16488398350350
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  6.700861799767205E-003
+IF(PinKappa1ByKappa02==0) kappa1_w	=  0.005!6.700861799767205E-003
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
