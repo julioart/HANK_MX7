@@ -26,10 +26,10 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 1
+CalibrateDiscountRate	= 0
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 1
+DoImpulseResponses 		= 0
 DoPriceExperiments		= 1!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
@@ -58,7 +58,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -92,13 +92,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 1
-EstimateKappa1		= 1
-EstimateKappa2		= 1
+EstimateKappa0		= 0
+EstimateKappa1		= 0
+EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
-EstimateBorrWedge	= 1
+EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 
@@ -151,7 +151,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -162,7 +162,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.03/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 2.50E-002!3.304084259071276E-002!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 2.263150063094348E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -170,12 +170,12 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 0.04!7.428994149212213E-002!CALIBRATED
-kappa2_w	= 2!0.249743138408752!CALIBRATED
+kappa0_w	= 2.637183565991114E-002
+kappa2_w	= 1.16488398350350
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  0.05!0.48236
+IF(PinKappa1ByKappa02==0) kappa1_w	=  6.700861799767205E-003
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
@@ -261,6 +261,9 @@ END IF
 KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
+! Results from Try 13, CALIBRATION
+KYratio  =  6.75361046516953
+KNratio  =  17.3026836960823
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
