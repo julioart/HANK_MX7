@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 1
+CalibrateCostFunction				= 0
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -92,9 +92,9 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 1
-EstimateKappa1		= 1
-EstimateKappa2		= 1
+EstimateKappa0		= 0
+EstimateKappa1		= 0
+EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
@@ -170,12 +170,12 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 0.05!2.637183565991114E-002
-kappa2_w	= 3!1.16488398350350
+kappa0_w	= 4.649554980188626E-002
+kappa2_w	= 3.98088371110579
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  0.005!6.700861799767205E-003
+IF(PinKappa1ByKappa02==0) kappa1_w	=  1.854462208602996E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
@@ -262,8 +262,8 @@ KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
 ! Results from Try 13, CALIBRATION
-KYratio  =  6.75361046516953
-KNratio  =  17.3026836960823
+KYratio  =  7.67057050907421
+KNratio  =  20.9236927406438
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
