@@ -16,8 +16,8 @@ integer,parameter :: naby		= ngpa*ngpb*ngpy
 integer,parameter :: nab		= ngpa*ngpb
 
 !PARAMETERS FOR GRID CONSTRUCTION
-real(8), parameter   :: agridparam = 0.2!0.35!0.15 !0.9 !0.15		!for a: approaches linear as goes to 1, approaches L shaped as goes to 0
-real(8), parameter   :: bgridparam = 0.35!0.35 !0.25 !0.35		!for b pos: approaches linear as goes to 1, approaches L shaped as goes to 0
+real(8), parameter   :: agridparam = 0.35!0.35!0.15 !0.9 !0.15		!for a: approaches linear as goes to 1, approaches L shaped as goes to 0
+real(8), parameter   :: bgridparam = 0.4!0.35 !0.25 !0.35		!for b pos: approaches linear as goes to 1, approaches L shaped as goes to 0
 real(8), parameter   :: bgridparamNEG = 0.4		!for b neg: approaches linear as goes to 1, approaches L shaped as goes to 0
 real(8), parameter   :: amax  = 400.0!1000!1500.0!2000.0 !0.1 !2000.0			!multiple of quarterly output
 real(8), parameter   :: bmax  = 15.0!40.0 !500.0 !40.0
