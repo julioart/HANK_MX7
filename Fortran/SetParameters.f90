@@ -170,8 +170,8 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 2.637183565991114E-002
-kappa2_w	= 2!1.16488398350350
+kappa0_w	= 0.0!2.637183565991114E-002
+kappa2_w	= 1.16488398350350
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
