@@ -261,10 +261,6 @@ END IF
 KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
-!THESE ARE INFORMED GUESSES, USING EQ SOLUTION
-!KYratio = 6.76423881332241 !targetKYratio
-!KNratio = 17.3433408221743 !(tfp*KYratio)**(1.0/(1.0-alpha))
-
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
