@@ -26,10 +26,10 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 0
+CalibrateDiscountRate	= 1
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 0
+DoImpulseResponses 		= 1
 DoPriceExperiments		= 1!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 0
+CalibrateCostFunction				= 1
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -58,7 +58,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -68,7 +68,7 @@ bondadjust 									= 0.1 !more responsive interest rate when closer to zero
 DividendFundLumpSum 			= 1
 DistributeProfitsInProportion 	= 1 !distributes profdistfrac of profits as dividends, and (1-profdistfrac) to households in proportion to productivity
 !profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
-profdistfrac 							= 0.36 !set higher than alpha to decrease response of investment
+profdistfrac 							= 0.33 !set higher than alpha to decrease response of investment
 TaxHHProfitIncome 				= 1 !taxes profit income at labor tax rate if DistributeProfitsInProportion = 1
 
 
@@ -92,13 +92,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
-EstimateKappa1		= 0
-EstimateKappa2		= 0
+EstimateKappa0		= 1
+EstimateKappa1		= 1
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
-EstimateBorrWedge	= 0
+EstimateBorrWedge	= 1
 EstimateGamma			= 0
 
 
@@ -161,7 +161,7 @@ prefshock	= 1.0
 
 
 !liquid assets
-rb					= 0.04/4.0 !liquid return 3% for Mexico in real termsm
+rb					= 0.03/4.0 !liquid return 3% for Mexico in real termsm
 borrwedge 	= 2.50E-002!3.304084259071276E-002!ESTIMATED  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
