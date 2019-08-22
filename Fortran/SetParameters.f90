@@ -116,6 +116,7 @@ MatchFracIll0Liq0 = 1!0
 defnbclose			= 0.0
 defnaclose 			= 0.0
 
+!Number of times to do minimize obj in caso of calibration through matching moments
 ndfls		= 2
 
 !SOLUTION PARAMETERS
@@ -151,7 +152,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.0E-00!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  2.0E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
