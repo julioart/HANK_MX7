@@ -172,11 +172,11 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 4.649554980188626E-002
-kappa2_w	= 0.06!3.98088371110579
+kappa2_w	= 1!3.98088371110579
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  0!1.854462208602996E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  1.854462208602996E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
