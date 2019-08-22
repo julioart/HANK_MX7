@@ -152,7 +152,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.35E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  2.25E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -162,7 +162,7 @@ prefshock	= 1.0
 
 
 !liquid assets
-rb					= 0.03/4.0 !liquid return 3% for Mexico in real termsm
+rb					= 0.04/4.0 !liquid return 3% for Mexico in real termsm
 borrwedge 	= 2.8E-002!2.263150063094348E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
@@ -263,8 +263,8 @@ KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
 ! Results from Try 13, CALIBRATION
-KYratio  =  6.77573906192894
-KNratio  =  17.3873687258582
+KYratio  =  6.61994919551392
+KNratio  =  16.7940803877531
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
