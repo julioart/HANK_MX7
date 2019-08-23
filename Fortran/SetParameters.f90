@@ -263,8 +263,8 @@ KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
 ! Results from Try 13, CALIBRATION
-KYratio  =  6.61994919551392
-KNratio  =  16.7940803877531
+KYratio  =  7.14970704753246
+KNratio  =  18.8389680929345  
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
