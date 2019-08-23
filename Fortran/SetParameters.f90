@@ -172,7 +172,7 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 4.649554980188626E-002
-kappa2_w	= 3!3.98088371110579
+kappa2_w	= 4!3.98088371110579
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
@@ -262,9 +262,9 @@ END IF
 KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
-! Results from Try 13, CALIBRATION
-KYratio  =  7.14970704753246
-KNratio  =  18.8389680929345  
+! Results from previous CALIBRATION
+KYratio  =  7.15985131570082
+KNratio  =  18.8788766914351 
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
