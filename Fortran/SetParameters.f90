@@ -26,10 +26,10 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 0
+CalibrateDiscountRate	= 1
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 0
+DoImpulseResponses 		= 1
 DoPriceExperiments		= 1!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
@@ -58,7 +58,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -97,7 +97,7 @@ EstimateKappa1		= 0
 EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
-EstimateRho				= 0
+EstimateRho				= 1
 EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
