@@ -152,7 +152,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.55E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  2.25E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -163,7 +163,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 3E-002!2.263150063094348E-002  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 2.5E-002!2.263150063094348E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -176,7 +176,7 @@ kappa2_w	= 4!3.98088371110579
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  0.045!1.854462208602996E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  0.04!1.854462208602996E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
