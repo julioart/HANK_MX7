@@ -29,7 +29,7 @@ ReportNonMonotonicity   = 0
 CalibrateDiscountRate	= 0
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 1
+DoImpulseResponses 		= 0
 DoPriceExperiments		= 1!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
@@ -58,7 +58,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -67,8 +67,8 @@ bondadjust 									= 0.1 !more responsive interest rate when closer to zero
 !dividend options
 DividendFundLumpSum 			= 1
 DistributeProfitsInProportion 	= 1 !distributes profdistfrac of profits as dividends, and (1-profdistfrac) to households in proportion to productivity
-!profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
-profdistfrac 							= 0.25!0.33 !set higher than alpha to decrease response of investment
+profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
+!profdistfrac 							= 0.25!0.33 !set higher than alpha to decrease response of investment
 TaxHHProfitIncome 				= 1 !taxes profit income at labor tax rate if DistributeProfitsInProportion = 1
 
 
@@ -102,7 +102,7 @@ EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 
-MatchMeanIll		= 0!1 !FOR MEXICO, MATCH THIS ONE
+MatchMeanIll		= 1!1 !FOR MEXICO, MATCH THIS ONE
 MatchKYratio		= 0 !DO NOT MATCH THIS ONE
 MatchMedianIll	= 0
 MatchP75Ill			= 0
@@ -116,8 +116,8 @@ MatchFracIll0Liq0 = 1!0
 defnbclose			= 0.0
 defnaclose 			= 0.0
 
-!Number of times to do minimize obj in caso of calibration through matching moments
-ndfls		= 2
+!Number of times to do minimize obj in case of calibration through matching moments
+ndfls		= 3
 
 !SOLUTION PARAMETERS
 maxiter 	= 500
@@ -264,7 +264,7 @@ KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
 ! Results from previous CALIBRATION
 KYratio  =  7.29389977235923
-KNratio  =  19.4088459783603 
+KNratio  =  19.4088459783603
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
