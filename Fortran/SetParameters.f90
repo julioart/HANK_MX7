@@ -26,7 +26,7 @@ Display              		= 1
 ReportNonMonotonicity   = 0
 
 !run options
-CalibrateDiscountRate	= 1
+CalibrateDiscountRate	= 0
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
 DoImpulseResponses 		= 0
@@ -152,7 +152,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.25E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  2E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
