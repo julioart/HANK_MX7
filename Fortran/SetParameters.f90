@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 1
+CalibrateCostFunction				= 0
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -92,13 +92,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 1
-EstimateKappa1		= 1
-EstimateKappa2		= 1
+EstimateKappa0		= 0
+EstimateKappa1		= 0
+EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
-EstimateRho				= 1
-EstimateBorrWedge	= 1
+EstimateRho				= 0
+EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 
@@ -152,7 +152,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.25E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
+rho		=  2.509244262088321E-002!2.025826611693503E-002!2.715402482613766E-002!2.666377198040875E-002
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !poisson death rate
@@ -163,7 +163,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 2.5E-002!2.263150063094348E-002  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 3.669084948386461E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -171,12 +171,12 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 4.649554980188626E-002
-kappa2_w	= 6!3.98088371110579
+kappa0_w	= 4.449138388448109E-002
+kappa2_w	= 5.89688907092309
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  0.06!1.854462208602996E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  3.865775335732082E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
