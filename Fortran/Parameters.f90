@@ -5,7 +5,7 @@ SAVE
 !OPTIONS
 integer,parameter  ::  TwoPointWageProcess 		= 0	!set ngpy=2
 integer,parameter  ::  Borrowing				= 1
-
+ 
 !GRID SIZES
 integer,parameter :: ngpa		= 60!40 !2		    !grid for illiquid assets
 integer,parameter :: ngpbPOS	= 45 !60		    !grid for liquid assets, >=0 range
