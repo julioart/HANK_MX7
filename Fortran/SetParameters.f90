@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 0
+CalibrateCostFunction				= 1
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -93,7 +93,7 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 !CALIBRATION OPTIONS
 EstimateKappa0		= 0
-EstimateKappa1		= 0
+EstimateKappa1		= 1
 EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
@@ -102,14 +102,14 @@ EstimateBorrWedge	= 0
 EstimateGamma			= 0
 
 
-MatchMeanIll		= 1!1 !FOR MEXICO, MATCH THIS ONE
+MatchMeanIll		= 0!1 !FOR MEXICO, MATCH THIS ONE
 MatchKYratio		= 0 !DO NOT MATCH THIS ONE
 MatchMedianIll	= 0
 MatchP75Ill			= 0
 MatchFracIll0		= 0
 MatchMeanLiq		= 0 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
 MatchMedianLiq	= 0
-MatchFracLiq0		= 1!1
+MatchFracLiq0		= 0!1
 MatchFracLiqNeg	= 0!1
 MatchFracIll0Liq0 = 1!0
 
@@ -228,7 +228,7 @@ targetMeanIll 		= 2.00 * 4.0
 ! Liquid wealth
 targetMeanLiq  		= 0.21* 4.0
 ! Poor hand to mouth
-targetFracIll0Liq0= 0.32
+targetFracIll0Liq0= 0.28!0.32
 ! All hand to mouth
 targetFracLiq0 		= 0.50 ! Rich HtM = targetFracLiq0 - targetFracIll0Liq0
 ! Indebted HH
