@@ -92,9 +92,9 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
+EstimateKappa0		= 1
 EstimateKappa1		= 1
-EstimateKappa2		= 0
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
@@ -176,7 +176,7 @@ kappa2_w	= 6!5.89688907092309
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  1.854462176561356E-002!7E-002!3.865775335732082E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
