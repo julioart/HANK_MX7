@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 1
+CalibrateCostFunction				= 0
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -92,9 +92,9 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 1
-EstimateKappa1		= 1
-EstimateKappa2		= 1
+EstimateKappa0		= 0
+EstimateKappa1		= 0
+EstimateKappa2		= 0
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 0
@@ -172,11 +172,11 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 4.649554938077927E-002!4.449138388448109E-002
-kappa2_w	= 6!5.89688907092309
+kappa2_w	= 10!13.5507130275250!6!5.89688907092309
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  3E-002!2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
@@ -228,7 +228,7 @@ targetMeanIll 		= 2.00 * 4.0
 ! Liquid wealth
 targetMeanLiq  		= 0.21* 4.0
 ! Poor hand to mouth
-targetFracIll0Liq0= 0.28!0.32
+targetFracIll0Liq0= 0.32
 ! All hand to mouth
 targetFracLiq0 		= 0.50 ! Rich HtM = targetFracLiq0 - targetFracIll0Liq0
 ! Indebted HH
