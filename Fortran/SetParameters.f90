@@ -176,7 +176,7 @@ kappa2_w	= 10!13.5507130275250!6!5.89688907092309
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  5E-002!2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  2.83E-002!2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
@@ -263,8 +263,8 @@ KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
 ! Results from previous CALIBRATION
-KYratio  =  7.29389977235923
-KNratio  =  19.4088459783603
+KYratio  =  7.08329597933837
+KNratio  =  18.5783897143140
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
