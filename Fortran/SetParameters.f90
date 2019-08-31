@@ -155,7 +155,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 rho		=  2.25E-002!2.509244262088321E-002
 
 !preferences
-deathrate	= 1.0/(4.0*45.0) !poisson death rate
+deathrate	= 1.0/(4.0*30.0) !1.0/(4.0*45.0) !poisson death rate
 gam				= 1.0	!risk aversion
 prefshock	= 1.0
 
@@ -172,11 +172,11 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 4.649554938077927E-002!4.449138388448109E-002
-kappa2_w	= 13.5507130275250!6!5.89688907092309
+kappa2_w	= 2!13.5507130275250!6!5.89688907092309
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  2.5E-002!8E-002!6.5E-002!2.831729522826623E-002!1.854462176561356E-002!7E-002!3.865775335732082E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
