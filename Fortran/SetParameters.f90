@@ -163,7 +163,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 2.5E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -0.5!-1.0 	!borrowing limit multiple of quarterly output
 
