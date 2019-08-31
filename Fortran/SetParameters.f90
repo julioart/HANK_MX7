@@ -135,7 +135,7 @@ maxiterequmss	= 200
 maxiterrho 		= 100
 tolrho			= 1.0e-7
 
-toltransition	= 3.0e-6!1.0e-6
+toltransition	= 6.0e-6!1.0e-6
 deltatransmin	= 1.0/3.0
 deltatransmax	= 40.0
 deltatransparam	= 0.35
