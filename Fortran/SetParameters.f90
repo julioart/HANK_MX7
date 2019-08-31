@@ -67,8 +67,8 @@ bondadjust 									= 0.1 !more responsive interest rate when closer to zero
 !dividend options
 DividendFundLumpSum 			= 1
 DistributeProfitsInProportion 	= 1 !distributes profdistfrac of profits as dividends, and (1-profdistfrac) to households in proportion to productivity
-profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
-!profdistfrac 							= 0.25!0.33 !set higher than alpha to decrease response of investment
+!profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
+profdistfrac 							= 0.27!0.33 !set higher than alpha to decrease response of investment
 TaxHHProfitIncome 				= 1 !taxes profit income at labor tax rate if DistributeProfitsInProportion = 1
 
 
@@ -165,7 +165,7 @@ prefshock	= 1.0
 rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
 borrwedge 	= 2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
-blim 		 		= -0.75!-1.0 	!borrowing limit multiple of quarterly output
+blim 		 		= -0.5!-1.0 	!borrowing limit multiple of quarterly output
 
 rborr = rb + borrwedge
 
