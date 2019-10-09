@@ -1,0 +1,3847 @@
+ ********************************** 
+ DFLS/DFBOLS MINIMIZATION ATTEMPT            1
+ *********************************
+ EVALUATION NUMBER:            1
+  y1width:    1.12287855148315     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.387707944840519     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.373863854422030E-002
+  KurtD1LogY, target:    18.6184825897217       model:    10.6817924175973     
+  VarD5LogY, target:   0.179346859455109       model:   0.152685433668502     
+  KurtD5LogY, target:    9.04785060882568       model:    5.74110037578665     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739220023155212     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794839978218079     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.949519991874695     
+  objective fun:   0.207985985581924     
+  
+ *********************************
+ EVALUATION NUMBER:            2
+  y1width:    5.35595140832900     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.362628940774293     
+  VarD1LogY, target:   4.976493865251541E-002  model:   3.095633411547861E-002
+  KurtD1LogY, target:    18.6184825897217       model:    127.418523640669     
+  VarD5LogY, target:   0.179346859455109       model:   0.110793626169620     
+  KurtD5LogY, target:    9.04785060882568       model:    44.7229634430395     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.968299984931946     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.975260019302368     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.984879970550537     
+  objective fun:    1.36676084770583     
+  
+ *********************************
+ EVALUATION NUMBER:            3
+  y1width:    1.12287855148315     
+  y2width:    7.77270801025604     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.700345647879536     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.051282259972201E-002
+  KurtD1LogY, target:    18.6184825897217       model:    22.0117522010777     
+  VarD5LogY, target:   0.179346859455109       model:   0.188333432630716     
+  KurtD5LogY, target:    9.04785060882568       model:    11.1512117527918     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739059984683990     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792580008506775     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947640001773834     
+  objective fun:   6.591677605925629E-002
+  
+ *********************************
+ EVALUATION NUMBER:            4
+  y1width:    1.12287855148315     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.996480363877316     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.387707944840519     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.373863854422030E-002
+  KurtD1LogY, target:    18.6184825897217       model:    10.6817924175973     
+  VarD5LogY, target:   0.179346859455109       model:   0.152685433668502     
+  KurtD5LogY, target:    9.04785060882568       model:    5.74110037578665     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739220023155212     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794839978218079     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.949519991874695     
+  objective fun:   0.207985985581924     
+  
+ *********************************
+ EVALUATION NUMBER:            5
+  y1width:    1.12287855148315     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.996480363877316     
+  VarLogY, target:   0.677315771579742       model:   0.386482121243148     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.371817358018740E-002
+  KurtD1LogY, target:    18.6184825897217       model:    10.6870689882656     
+  VarD5LogY, target:   0.179346859455109       model:   0.152597814378599     
+  KurtD5LogY, target:    9.04785060882568       model:    5.75350949284796     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739780008792877     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795340001583099     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.949620008468628     
+  objective fun:   0.208488317457934     
+  
+ *********************************
+ EVALUATION NUMBER:            6
+  y1width:   0.565691510918217     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.339780399095209     
+  VarD1LogY, target:   4.976493865251541E-002  model:   1.864083173795748E-002
+  KurtD1LogY, target:    18.6184825897217       model:    23.7601388874891     
+  VarD5LogY, target:   0.179346859455109       model:   7.417408829477315E-002
+  KurtD5LogY, target:    9.04785060882568       model:    11.8267510762294     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.761619985103607     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.871540009975433     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.989780008792877     
+  objective fun:   0.384091034474732     
+  
+ *********************************
+ EVALUATION NUMBER:            7
+  y1width:    1.12287855148315     
+  y2width:   0.820947503633097     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.186086854691499     
+  VarD1LogY, target:   4.976493865251541E-002  model:   3.955032726164760E-002
+  KurtD1LogY, target:    18.6184825897217       model:    8.53858200107055     
+  VarD5LogY, target:   0.179346859455109       model:   0.130034111947655     
+  KurtD5LogY, target:    9.04785060882568       model:    4.28553197637920     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.743239998817444     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.798420011997223     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.952520012855530     
+  objective fun:   0.336062886705564     
+  
+ *********************************
+ EVALUATION NUMBER:            8
+  y1width:    1.12287855148315     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.306232767095114     
+  y2gridpar:   0.699999988079071     
+  VarLogY, target:   0.677315771579742       model:   0.387707944840519     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.373863854422030E-002
+  KurtD1LogY, target:    18.6184825897217       model:    10.6817924175973     
+  VarD5LogY, target:   0.179346859455109       model:   0.152685433668502     
+  KurtD5LogY, target:    9.04785060882568       model:    5.74110037578665     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739220023155212     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794839978218079     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.949519991874695     
+  objective fun:   0.207985985581924     
+  
+ *********************************
+ EVALUATION NUMBER:            9
+  y1width:    1.12287855148315     
+  y2width:    1.62955307960510     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.306232767095114     
+  VarLogY, target:   0.677315771579742       model:   0.395524300140227     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.389666557000204E-002
+  KurtD1LogY, target:    18.6184825897217       model:    10.9957567050036     
+  VarD5LogY, target:   0.179346859455109       model:   0.153805071700552     
+  KurtD5LogY, target:    9.04785060882568       model:    5.87726895449958     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739899992942810     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794219970703125     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.949559986591339     
+  objective fun:   0.201573979706940     
+  
+ *********************************
+ EVALUATION NUMBER:           10
+  y1width:    1.01081753995213     
+  y2width:    7.56595672612200     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.973675448762300     
+  VarLogY, target:   0.677315771579742       model:   0.721019078118548     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.589857321849194E-002
+  KurtD1LogY, target:    18.6184825897217       model:    24.7525016815392     
+  VarD5LogY, target:   0.179346859455109       model:   0.175293761081269     
+  KurtD5LogY, target:    9.04785060882568       model:    12.2279558360061     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.730400025844574     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.803839981555939     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.965719997882843     
+  objective fun:   0.101200045303217     
+  
+ *********************************
+ EVALUATION NUMBER:           11
+  y1width:   0.987272373119739     
+  y2width:    7.52379315439241     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.741959970469242     
+  VarLogY, target:   0.677315771579742       model:   0.688402597009172     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.418295973379318E-002
+  KurtD1LogY, target:    18.6184825897217       model:    24.8822701966260     
+  VarD5LogY, target:   0.179346859455109       model:   0.167944069711516     
+  KurtD5LogY, target:    9.04785060882568       model:    12.7260684087560     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.727680027484894     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.802020013332367     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.974879980087280     
+  objective fun:   0.113378741394817     
+  
+ *********************************
+ EVALUATION NUMBER:           12
+  y1width:    1.39302701080238     
+  y2width:    7.69175223087450     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.702354374356880     
+  VarLogY, target:   0.677315771579742       model:   0.723152499072807     
+  VarD1LogY, target:   4.976493865251541E-002  model:   6.316415851003379E-002
+  KurtD1LogY, target:    18.6184825897217       model:    17.1117922739305     
+  VarD5LogY, target:   0.179346859455109       model:   0.227606042160176     
+  KurtD5LogY, target:    9.04785060882568       model:    9.09292630346421     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.754559993743896     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795059978961945     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.917339980602264     
+  objective fun:   0.150415881547822     
+  
+ *********************************
+ EVALUATION NUMBER:           13
+  y1width:    1.17668406723284     
+  y2width:    7.86946075465068     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.634450869588021     
+  VarLogY, target:   0.677315771579742       model:   0.700252888192564     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.321173167822297E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.8006809518471     
+  VarD5LogY, target:   0.179346859455109       model:   0.196492711354264     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6469141217537     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742699980735779     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795440018177032     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.939660012722015     
+  objective fun:   6.661106454816529E-002
+  
+ *********************************
+ EVALUATION NUMBER:           14
+  y1width:    1.18963579417872     
+  y2width:    7.96706854687063     
+  y1gridpar:   0.699999988079071     
+  y2gridpar:   0.673863491824952     
+  VarLogY, target:   0.677315771579742       model:   0.704704201757392     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.395952885817645E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.2415878340947     
+  VarD5LogY, target:   0.179346859455109       model:   0.198677244122149     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5110462353099     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.744260013103485     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.796299993991852     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.939819991588593     
+  objective fun:   6.924541267140530E-002
+  
+ *********************************
+ EVALUATION NUMBER:           15
+  y1width:    1.17526879176124     
+  y2width:    7.96850573582823     
+  y1gridpar:   0.781005154408722     
+  y2gridpar:   0.672222569596461     
+  VarLogY, target:   0.677315771579742       model:   0.703576821463984     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.321044917264578E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.4577646374675     
+  VarD5LogY, target:   0.179346859455109       model:   0.196449251350200     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6418265350683     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742860019207001     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795300006866455     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.939559996128082     
+  objective fun:   6.585584011909100E-002
+  
+ *********************************
+ EVALUATION NUMBER:           16
+  y1width:    1.17081985178390     
+  y2width:    7.98458435006153     
+  y1gridpar:   0.840109386421978     
+  y2gridpar:   0.712751128596489     
+  VarLogY, target:   0.677315771579742       model:   0.704870738693209     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.306510193039608E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.4407420564354     
+  VarD5LogY, target:   0.179346859455109       model:   0.195634828585903     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5948687494167     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742640018463135     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795140027999878     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947239995002747     
+  objective fun:   6.400402640350415E-002
+  
+ *********************************
+ EVALUATION NUMBER:           17
+  y1width:    1.16835396207908     
+  y2width:    7.99304970965553     
+  y1gridpar:   0.891740841906646     
+  y2gridpar:   0.691520889174163     
+  VarLogY, target:   0.677315771579742       model:   0.704197025785814     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.288080486427414E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.6674642846394     
+  VarD5LogY, target:   0.179346859455109       model:   0.195059098919051     
+  KurtD5LogY, target:    9.04785060882568       model:    10.7347991679341     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742519974708557     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795000016689301     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947260022163391     
+  objective fun:   6.499229810250663E-002
+  
+ *********************************
+ EVALUATION NUMBER:           18
+  y1width:    1.16429099395319     
+  y2width:    7.95784986870003     
+  y1gridpar:   0.834300761298720     
+  y2gridpar:   0.788228689638639     
+  VarLogY, target:   0.677315771579742       model:   0.707599943088863     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.248649590270576E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.4933330833103     
+  VarD5LogY, target:   0.179346859455109       model:   0.194960390461537     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3526207589481     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742600023746490     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795099973678589     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947399973869324     
+  objective fun:   5.731157411464983E-002
+  
+ *********************************
+ EVALUATION NUMBER:           19
+  y1width:    1.13728435030026     
+  y2width:    7.94101144219696     
+  y1gridpar:   0.844844427092596     
+  y2gridpar:   0.852120356926025     
+  VarLogY, target:   0.677315771579742       model:   0.716760187475225     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.145395951007140E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.2327404042196     
+  VarD5LogY, target:   0.179346859455109       model:   0.192411426235326     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6156489883914     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740700006484985     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793479979038239     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946340024471283     
+  objective fun:   5.850858937309867E-002
+  
+ *********************************
+ EVALUATION NUMBER:           20
+  y1width:   0.950982740414482     
+  y2width:    7.94254838634887     
+  y1gridpar:   0.821411665480369     
+  y2gridpar:   0.788558664947104     
+  VarLogY, target:   0.677315771579742       model:   0.688601339946032     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.231488266212830E-002
+  KurtD1LogY, target:    18.6184825897217       model:    25.7187428717093     
+  VarD5LogY, target:   0.179346859455109       model:   0.163587608189104     
+  KurtD5LogY, target:    9.04785060882568       model:    12.9299072581236     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.734560012817383     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.801039993762970     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.975160002708435     
+  objective fun:   0.129157296082883     
+  
+ *********************************
+ EVALUATION NUMBER:           21
+  y1width:    1.13318450386676     
+  y2width:    7.88173449995252     
+  y1gridpar:   0.874791514913295     
+  y2gridpar:   0.784303021718886     
+  VarLogY, target:   0.677315771579742       model:   0.703423624641370     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.068766337514279E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.5529659041597     
+  VarD5LogY, target:   0.179346859455109       model:   0.189790031985516     
+  KurtD5LogY, target:    9.04785060882568       model:    10.4794507991959     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739979982376099     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793120026588440     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.901821671578389E-002
+  
+ *********************************
+ EVALUATION NUMBER:           22
+  y1width:    1.15266501676330     
+  y2width:    7.83940087193211     
+  y1gridpar:   0.907659895544867     
+  y2gridpar:   0.735750655199272     
+  VarLogY, target:   0.677315771579742       model:   0.703583475532504     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.181279252715192E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.3591250631897     
+  VarD5LogY, target:   0.179346859455109       model:   0.192861277555479     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6390107101433     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.741720020771027     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794319987297058     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   5.792911831756029E-002
+  
+ *********************************
+ EVALUATION NUMBER:           23
+  y1width:    1.21714162858168     
+  y2width:    7.77397234873872     
+  y1gridpar:   0.845779137536280     
+  y2gridpar:   0.756897347671177     
+  VarLogY, target:   0.677315771579742       model:   0.708694322506534     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.497058317548737E-002
+  KurtD1LogY, target:    18.6184825897217       model:    18.6895841239073     
+  VarD5LogY, target:   0.179346859455109       model:   0.201835083715642     
+  KurtD5LogY, target:    9.04785060882568       model:    9.99222006784054     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.746879994869232     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.797860026359558     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.933820009231567     
+  objective fun:   7.226120883386164E-002
+  
+ *********************************
+ EVALUATION NUMBER:           24
+  y1width:    1.14653592633131     
+  y2width:    7.92873450327623     
+  y1gridpar:   0.895599369684945     
+  y2gridpar:   0.839325513840388     
+  VarLogY, target:   0.677315771579742       model:   0.715549307230214     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.216335065989846E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.6978329380534     
+  VarD5LogY, target:   0.179346859455109       model:   0.193986760294877     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5296437363052     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.741620004177094     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794059991836548     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946879982948303     
+  objective fun:   6.178599299029740E-002
+  
+ *********************************
+ EVALUATION NUMBER:           25
+  y1width:    1.14225395523408     
+  y2width:    7.85267719466436     
+  y1gridpar:   0.850389539915782     
+  y2gridpar:   0.790102869599480     
+  VarLogY, target:   0.677315771579742       model:   0.705282470429834     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.118866908978405E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.5094591483320     
+  VarD5LogY, target:   0.179346859455109       model:   0.191173123584817     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3937349733392     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740800023078918     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793799996376038     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947220027446747     
+  objective fun:   5.023056692137672E-002
+  
+ *********************************
+ EVALUATION NUMBER:           26
+  y1width:    1.13006156089983     
+  y2width:    7.89306557965125     
+  y1gridpar:   0.874802626237724     
+  y2gridpar:   0.777864573479919     
+  VarLogY, target:   0.677315771579742       model:   0.703450538998658     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.047068783232336E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3497245904679     
+  VarD5LogY, target:   0.179346859455109       model:   0.189012947217961     
+  KurtD5LogY, target:    9.04785060882568       model:    10.4138262461172     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739839971065521     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792919993400574     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947160005569458     
+  objective fun:   4.691277579595531E-002
+  
+ *********************************
+ EVALUATION NUMBER:           27
+  y1width:    1.13421005777752     
+  y2width:    7.91001182245697     
+  y1gridpar:   0.870888135716548     
+  y2gridpar:   0.763180583148918     
+  VarLogY, target:   0.677315771579742       model:   0.702477975307442     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.064981793741084E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2400266315294     
+  VarD5LogY, target:   0.179346859455109       model:   0.189835439359416     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6377719377594     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739880025386810     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792879998683929     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947340011596680     
+  objective fun:   5.049802986169157E-002
+  
+ *********************************
+ EVALUATION NUMBER:           28
+  y1width:    1.10584756550774     
+  y2width:    7.89134239995139     
+  y1gridpar:   0.874074002842091     
+  y2gridpar:   0.777390123286601     
+  VarLogY, target:   0.677315771579742       model:   0.701494638492121     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.939280713287348E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.8120196308247     
+  VarD5LogY, target:   0.179346859455109       model:   0.185363896309725     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6245618573778     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.738059997558594     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.791620016098022     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.953960001468658     
+  objective fun:   4.760620691901435E-002
+  
+ *********************************
+ EVALUATION NUMBER:           29
+  y1width:    1.13145085562366     
+  y2width:    7.90334644018800     
+  y1gridpar:   0.876660102456751     
+  y2gridpar:   0.780662883958824     
+  VarLogY, target:   0.677315771579742       model:   0.703494789433540     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.064875585183794E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.5142921355413     
+  VarD5LogY, target:   0.179346859455109       model:   0.189464009701061     
+  KurtD5LogY, target:    9.04785060882568       model:    10.4620796501320     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739859998226166     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793020009994507     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947019994258881     
+  objective fun:   4.839295134052217E-002
+  
+ *********************************
+ EVALUATION NUMBER:           30
+  y1width:    1.13052815824900     
+  y2width:    7.88827536758532     
+  y1gridpar:   0.871277506937118     
+  y2gridpar:   0.773100796040422     
+  VarLogY, target:   0.677315771579742       model:   0.703537652760019     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.046029356263135E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.4095779373373     
+  VarD5LogY, target:   0.179346859455109       model:   0.188710768398157     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3326397757023     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739880025386810     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792999982833862     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947260022163391     
+  objective fun:   4.571795372664157E-002
+  
+ *********************************
+ EVALUATION NUMBER:           31
+  y1width:    1.14142788001711     
+  y2width:    7.88272661224063     
+  y1gridpar:   0.867516056535065     
+  y2gridpar:   0.770407619057676     
+  VarLogY, target:   0.677315771579742       model:   0.704542517945898     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.089789357515226E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.0331216795165     
+  VarD5LogY, target:   0.179346859455109       model:   0.190285780865745     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3166277066997     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740639984607697     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793659985065460     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947579979896545     
+  objective fun:   4.718407541356165E-002
+  
+ *********************************
+ EVALUATION NUMBER:           32
+  y1width:    1.13364954099783     
+  y2width:    7.89512753035642     
+  y1gridpar:   0.867460734536095     
+  y2gridpar:   0.776166674004622     
+  VarLogY, target:   0.677315771579742       model:   0.704035813454501     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.057873214208186E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2292506347163     
+  VarD5LogY, target:   0.179346859455109       model:   0.189248673623243     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3706216056880     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740040004253387     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793160021305084     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947300016880035     
+  objective fun:   4.658884615363371E-002
+  
+ *********************************
+ EVALUATION NUMBER:           33
+  y1width:    1.12899874244197     
+  y2width:    7.87748149354079     
+  y1gridpar:   0.870956183452416     
+  y2gridpar:   0.769043165386551     
+  VarLogY, target:   0.677315771579742       model:   0.702764942317090     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.030721324911942E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1757390979188     
+  VarD5LogY, target:   0.179346859455109       model:   0.188701623272239     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5956625096773     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739619970321655     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792659997940063     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947399973869324     
+  objective fun:   4.860349448715407E-002
+  
+ *********************************
+ EVALUATION NUMBER:           34
+  y1width:    1.12835492377127     
+  y2width:    7.88108141123333     
+  y1gridpar:   0.867892985017513     
+  y2gridpar:   0.777021343606243     
+  VarLogY, target:   0.677315771579742       model:   0.703640214456419     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.035779490932755E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2965869547688     
+  VarD5LogY, target:   0.179346859455109       model:   0.188545560607364     
+  KurtD5LogY, target:    9.04785060882568       model:    10.4048945933709     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739579975605011     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792940020561218     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947160005569458     
+  objective fun:   4.619880596961273E-002
+  
+ *********************************
+ EVALUATION NUMBER:           35
+  y1width:    1.14138143441205     
+  y2width:    7.89673536438362     
+  y1gridpar:   0.868491038413834     
+  y2gridpar:   0.775121074257429     
+  VarLogY, target:   0.677315771579742       model:   0.704933155857254     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.093702438153536E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.0267851598843     
+  VarD5LogY, target:   0.179346859455109       model:   0.190277850012289     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2887911745530     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740679979324341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793720006942749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947340011596680     
+  objective fun:   4.696648286547613E-002
+  
+ *********************************
+ EVALUATION NUMBER:           36
+  y1width:    1.12628231814265     
+  y2width:    7.89685938835564     
+  y1gridpar:   0.871537083358418     
+  y2gridpar:   0.767738574496734     
+  VarLogY, target:   0.677315771579742       model:   0.702618293350900     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.018981211161323E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2605306232554     
+  VarD5LogY, target:   0.179346859455109       model:   0.188182489466940     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5739005481782     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739400029182434     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792599976062775     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947319984436035     
+  objective fun:   4.786837955340315E-002
+  
+ *********************************
+ EVALUATION NUMBER:           37
+  y1width:    1.14402312577243     
+  y2width:    7.88873100276349     
+  y1gridpar:   0.869863907364469     
+  y2gridpar:   0.779224178215761     
+  VarLogY, target:   0.677315771579742       model:   0.704564600476997     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.116506036322564E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1093999216522     
+  VarD5LogY, target:   0.179346859455109       model:   0.190996376733142     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3026718243331     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740999996662140     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793919980525970     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947340011596680     
+  objective fun:   4.825258826259154E-002
+  
+ *********************************
+ EVALUATION NUMBER:           38
+  y1width:    1.13650510163440     
+  y2width:    7.89007736113477     
+  y1gridpar:   0.869636521838442     
+  y2gridpar:   0.775222642460628     
+  VarLogY, target:   0.677315771579742       model:   0.704541120344926     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.064783660742966E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1125956349350     
+  VarD5LogY, target:   0.179346859455109       model:   0.189591561599537     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3284934398367     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.641241667138270E-002
+  
+ *********************************
+ EVALUATION NUMBER:           39
+  y1width:    1.12750448836123     
+  y2width:    7.88845349128243     
+  y1gridpar:   0.871141041538621     
+  y2gridpar:   0.773242335500324     
+  VarLogY, target:   0.677315771579742       model:   0.703273645349353     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.036252649984113E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.4567658839520     
+  VarD5LogY, target:   0.179346859455109       model:   0.188285888906960     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3652683629002     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739499986171722     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792819976806641     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947139978408813     
+  objective fun:   4.569545766032574E-002
+  
+ *********************************
+ EVALUATION NUMBER:           40
+  y1width:    1.13651749139122     
+  y2width:    7.88765831517161     
+  y1gridpar:   0.871422711230042     
+  y2gridpar:   0.773557822412659     
+  VarLogY, target:   0.677315771579742       model:   0.704250903870794     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.071439878330222E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3135463795468     
+  VarD5LogY, target:   0.179346859455109       model:   0.189484776077092     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2931804196791     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.618119607697858E-002
+  
+ *********************************
+ EVALUATION NUMBER:           41
+  y1width:    1.13581764796392     
+  y2width:    7.88734097343573     
+  y1gridpar:   0.870186538535963     
+  y2gridpar:   0.772962575308556     
+  VarLogY, target:   0.677315771579742       model:   0.704098062180583     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.066388214905081E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3030498009200     
+  VarD5LogY, target:   0.179346859455109       model:   0.189537006891862     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3426102901479     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740199983119965     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793259978294373     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947399973869324     
+  objective fun:   4.672754248400807E-002
+  
+ *********************************
+ EVALUATION NUMBER:           42
+  y1width:    1.13762282083981     
+  y2width:    7.88858688488021     
+  y1gridpar:   0.871468894767806     
+  y2gridpar:   0.773171206359533     
+  VarLogY, target:   0.677315771579742       model:   0.704236606704484     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.079081404227459E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2672844526153     
+  VarD5LogY, target:   0.179346859455109       model:   0.189695804363803     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2743369285406     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.618631931438975E-002
+  
+ *********************************
+ EVALUATION NUMBER:           43
+  y1width:    1.13707041200114     
+  y2width:    7.88948315108681     
+  y1gridpar:   0.871813594867844     
+  y2gridpar:   0.773224396661508     
+  VarLogY, target:   0.677315771579742       model:   0.704290653356797     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.074293480673467E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2902091324862     
+  VarD5LogY, target:   0.179346859455109       model:   0.189611954043001     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2848474337211     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.621424925676125E-002
+  
+ *********************************
+ EVALUATION NUMBER:           44
+  y1width:    1.13634690481650     
+  y2width:    7.88872054766967     
+  y1gridpar:   0.871744894222751     
+  y2gridpar:   0.773691411873467     
+  VarLogY, target:   0.677315771579742       model:   0.704231241538787     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.071210536554299E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3301444085476     
+  VarD5LogY, target:   0.179346859455109       model:   0.189435081095911     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2984745098371     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.621502337808418E-002
+  
+ *********************************
+ EVALUATION NUMBER:           45
+  y1width:    1.13784676305680     
+  y2width:    7.88824392478321     
+  y1gridpar:   0.871630225906661     
+  y2gridpar:   0.772475383980435     
+  VarLogY, target:   0.677315771579742       model:   0.704418054743094     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080760152024519E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2285282932613     
+  VarD5LogY, target:   0.179346859455109       model:   0.189938645450986     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3427451194766     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793359994888306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.723822593327191E-002
+  
+ *********************************
+ EVALUATION NUMBER:           46
+  y1width:    1.13937219322430     
+  y2width:    7.88853142381077     
+  y1gridpar:   0.871428651802481     
+  y2gridpar:   0.773725613748439     
+  VarLogY, target:   0.677315771579742       model:   0.704538570763752     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.089389913457298E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2502780345508     
+  VarD5LogY, target:   0.179346859455109       model:   0.189893911053398     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2707343389365     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740419983863831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793479979038239     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947340011596680     
+  objective fun:   4.650661589412266E-002
+  
+ *********************************
+ EVALUATION NUMBER:           47
+  y1width:    1.13694156339136     
+  y2width:    7.88934226151378     
+  y1gridpar:   0.871096196948889     
+  y2gridpar:   0.773357442346269     
+  VarLogY, target:   0.677315771579742       model:   0.704342873116810     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.073933615039358E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2996581484446     
+  VarD5LogY, target:   0.179346859455109       model:   0.189575597008680     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2886145737490     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.624186051014061E-002
+  
+ *********************************
+ EVALUATION NUMBER:           48
+  y1width:    1.13516768995551     
+  y2width:    7.88859343874977     
+  y1gridpar:   0.871436383860680     
+  y2gridpar:   0.772972046028361     
+  VarLogY, target:   0.677315771579742       model:   0.703978430447420     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.062701420970335E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3289380070127     
+  VarD5LogY, target:   0.179346859455109       model:   0.189293112267600     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3154608828610     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740180015563965     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793259978294373     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947420001029968     
+  objective fun:   4.614132763664777E-002
+  
+ *********************************
+ EVALUATION NUMBER:           49
+  y1width:    1.13809176528334     
+  y2width:    7.88918773805331     
+  y1gridpar:   0.871152237175723     
+  y2gridpar:   0.773638001975729     
+  VarLogY, target:   0.677315771579742       model:   0.704473327609399     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.082322588566045E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2784219786026     
+  VarD5LogY, target:   0.179346859455109       model:   0.189714165839273     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2799669036591     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.637120879602245E-002
+  
+ *********************************
+ EVALUATION NUMBER:           50
+  y1width:    1.13780728053950     
+  y2width:    7.88889101680537     
+  y1gridpar:   0.871308945793229     
+  y2gridpar:   0.773404519641227     
+  VarLogY, target:   0.677315771579742       model:   0.704454735353758     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.079355703137606E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2753370681517     
+  VarD5LogY, target:   0.179346859455109       model:   0.189721321094941     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2790579783127     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.632134418803461E-002
+  
+ *********************************
+ EVALUATION NUMBER:           51
+  y1width:    1.13769337588289     
+  y2width:    7.88855506930822     
+  y1gridpar:   0.871473387799753     
+  y2gridpar:   0.773066878094639     
+  VarLogY, target:   0.677315771579742       model:   0.704316834312135     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.079115532620713E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2601368655932     
+  VarD5LogY, target:   0.179346859455109       model:   0.189684622268970     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2715098613959     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.614719990999534E-002
+  
+ *********************************
+ EVALUATION NUMBER:           52
+  y1width:    1.13821359335846     
+  y2width:    7.88855484009709     
+  y1gridpar:   0.871420212109668     
+  y2gridpar:   0.772987434501164     
+  VarLogY, target:   0.677315771579742       model:   0.704371119346175     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.081433737072808E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2447330084434     
+  VarD5LogY, target:   0.179346859455109       model:   0.189777890589708     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2847890997746     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740320026874542     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793359994888306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.641932125927965E-002
+  
+ *********************************
+ EVALUATION NUMBER:           53
+  y1width:    1.13759649313960     
+  y2width:    7.88848693732596     
+  y1gridpar:   0.871537690865054     
+  y2gridpar:   0.773048698092168     
+  VarLogY, target:   0.677315771579742       model:   0.704289329507902     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078372066336157E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2620112634275     
+  VarD5LogY, target:   0.179346859455109       model:   0.189661732460609     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2721548362066     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.612008418118656E-002
+  
+ *********************************
+ EVALUATION NUMBER:           54
+  y1width:    1.13732298515561     
+  y2width:    7.88851228830745     
+  y1gridpar:   0.871518078938084     
+  y2gridpar:   0.772985912659220     
+  VarLogY, target:   0.677315771579742       model:   0.704263209159066     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.075795970623989E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2699508821642     
+  VarD5LogY, target:   0.179346859455109       model:   0.189659032536792     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2918900797553     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.632493028710245E-002
+  
+ *********************************
+ EVALUATION NUMBER:           55
+  y1width:    1.13754634205873     
+  y2width:    7.88832750589991     
+  y1gridpar:   0.871508762347798     
+  y2gridpar:   0.773062584802810     
+  VarLogY, target:   0.677315771579742       model:   0.704284127943778     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078040373234027E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2634557310724     
+  VarD5LogY, target:   0.179346859455109       model:   0.189651401246595     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2728131637055     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.611436499198556E-002
+  
+ *********************************
+ EVALUATION NUMBER:           56
+  y1width:    1.13794128354909     
+  y2width:    7.88848117238575     
+  y1gridpar:   0.871558031401298     
+  y2gridpar:   0.773060441968330     
+  VarLogY, target:   0.677315771579742       model:   0.704313140986130     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080735182051362E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2516030082749     
+  VarD5LogY, target:   0.179346859455109       model:   0.189707929710271     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2695074913715     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.615539344747823E-002
+  
+ *********************************
+ EVALUATION NUMBER:           57
+  y1width:    1.13789074362584     
+  y2width:    7.88862946761556     
+  y1gridpar:   0.871595829852466     
+  y2gridpar:   0.773074620261577     
+  VarLogY, target:   0.677315771579742       model:   0.704264129240201     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080505911379456E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2545441071408     
+  VarD5LogY, target:   0.179346859455109       model:   0.189703161683611     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2708193291656     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.615806031594417E-002
+  
+ *********************************
+ EVALUATION NUMBER:           58
+  y1width:    1.13763876649028     
+  y2width:    7.88843031542803     
+  y1gridpar:   0.871591478322049     
+  y2gridpar:   0.773048641139244     
+  VarLogY, target:   0.677315771579742       model:   0.704288470250083     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078626613602728E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2604726290907     
+  VarD5LogY, target:   0.179346859455109       model:   0.189669438356101     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2714344683963     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.612028304122384E-002
+  
+ *********************************
+ EVALUATION NUMBER:           59
+  y1width:    1.13732307688830     
+  y2width:    7.88843810310556     
+  y1gridpar:   0.871621319006677     
+  y2gridpar:   0.773077505052888     
+  VarLogY, target:   0.677315771579742       model:   0.704264086086609     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.076863619060491E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2700882263475     
+  VarD5LogY, target:   0.179346859455109       model:   0.189625393615190     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2750228882549     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.610870578821267E-002
+  
+ *********************************
+ EVALUATION NUMBER:           60
+  y1width:    1.13766581912078     
+  y2width:    7.88841074279891     
+  y1gridpar:   0.871571225385448     
+  y2gridpar:   0.773151942331285     
+  VarLogY, target:   0.677315771579742       model:   0.704205892984155     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.079230100783045E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2642099530745     
+  VarD5LogY, target:   0.179346859455109       model:   0.189694830472976     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2732405847076     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.616454530291102E-002
+  
+ *********************************
+ EVALUATION NUMBER:           61
+  y1width:    1.13764829096258     
+  y2width:    7.88842002584497     
+  y1gridpar:   0.871573368897652     
+  y2gridpar:   0.773095443870260     
+  VarLogY, target:   0.677315771579742       model:   0.704231413635622     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078885743054290E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2622122872609     
+  VarD5LogY, target:   0.179346859455109       model:   0.189681546635842     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2721648223479     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.613621206036415E-002
+  
+ *********************************
+ EVALUATION NUMBER:           62
+  y1width:    1.13765497077521     
+  y2width:    7.88841044342135     
+  y1gridpar:   0.871591779445843     
+  y2gridpar:   0.773056572803174     
+  VarLogY, target:   0.677315771579742       model:   0.704299616908564     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078768442193261E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2601745605321     
+  VarD5LogY, target:   0.179346859455109       model:   0.189674277382795     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2713015676716     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.612697183497640E-002
+  
+ *********************************
+ EVALUATION NUMBER:           63
+  y1width:    1.13766489016603     
+  y2width:    7.88842782711015     
+  y1gridpar:   0.871595125379266     
+  y2gridpar:   0.773023289021576     
+  VarLogY, target:   0.677315771579742       model:   0.704356281346126     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077986224734161E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2621256353801     
+  VarD5LogY, target:   0.179346859455109       model:   0.189647910765146     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718380344786     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611003444600306E-002
+  
+ *********************************
+ EVALUATION NUMBER:           64
+  y1width:    1.13770578003197     
+  y2width:    7.88846417199472     
+  y1gridpar:   0.871598982872309     
+  y2gridpar:   0.773030758244889     
+  VarLogY, target:   0.677315771579742       model:   0.704336591569982     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078301714141138E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2613615397351     
+  VarD5LogY, target:   0.179346859455109       model:   0.189658740078278     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2714667783341     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611580520638616E-002
+  
+ *********************************
+ EVALUATION NUMBER:           65
+  y1width:    1.13764872415742     
+  y2width:    7.88841546967524     
+  y1gridpar:   0.871586634671984     
+  y2gridpar:   0.773023318833590     
+  VarLogY, target:   0.677315771579742       model:   0.704352309941082     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077874337837630E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2625742311036     
+  VarD5LogY, target:   0.179346859455109       model:   0.189646866941177     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717833139362     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610686538336989E-002
+  
+ *********************************
+ EVALUATION NUMBER:           66
+  y1width:    1.13767945850632     
+  y2width:    7.88842047697952     
+  y1gridpar:   0.871579181199011     
+  y2gridpar:   0.773027977292107     
+  VarLogY, target:   0.677315771579742       model:   0.704320903705287     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078100041713089E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2618491714619     
+  VarD5LogY, target:   0.179346859455109       model:   0.189651843596923     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717023051661     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610695761733483E-002
+  
+ *********************************
+ EVALUATION NUMBER:           67
+  y1width:    1.13766390025669     
+  y2width:    7.88842507677710     
+  y1gridpar:   0.871569632589879     
+  y2gridpar:   0.773024753469818     
+  VarLogY, target:   0.677315771579742       model:   0.704318207176385     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077984664094294E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2622106575583     
+  VarD5LogY, target:   0.179346859455109       model:   0.189647973920563     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718747305555     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610367604824478E-002
+  
+ *********************************
+ EVALUATION NUMBER:           68
+  y1width:    1.13770906119236     
+  y2width:    7.88842534343666     
+  y1gridpar:   0.871567895528278     
+  y2gridpar:   0.773031438213486     
+  VarLogY, target:   0.677315771579742       model:   0.704332089676697     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078313271832024E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2611040126113     
+  VarD5LogY, target:   0.179346859455109       model:   0.189658869825303     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2713513354854     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611355378179498E-002
+  
+ *********************************
+ EVALUATION NUMBER:           69
+  y1width:    1.13765667871096     
+  y2width:    7.88842496518987     
+  y1gridpar:   0.871568013983535     
+  y2gridpar:   0.773039750978690     
+  VarLogY, target:   0.677315771579742       model:   0.704341384379631     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077997602536349E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2631244125719     
+  VarD5LogY, target:   0.179346859455109       model:   0.189652288173251     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2720039878924     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611516263340473E-002
+  
+ *********************************
+ EVALUATION NUMBER:           70
+  y1width:    1.13768875830891     
+  y2width:    7.88843891693680     
+  y1gridpar:   0.871570827600835     
+  y2gridpar:   0.773014535002584     
+  VarLogY, target:   0.677315771579742       model:   0.704344243935288     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078113494658967E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2610295147799     
+  VarD5LogY, target:   0.179346859455109       model:   0.189722433259878     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2887850984956     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.637892006631630E-002
+  
+ *********************************
+ EVALUATION NUMBER:           71
+  y1width:    1.13764900098610     
+  y2width:    7.88844255746790     
+  y1gridpar:   0.871562882244958     
+  y2gridpar:   0.773026446881246     
+  VarLogY, target:   0.677315771579742       model:   0.704317643068534     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077898079271916E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2628388087180     
+  VarD5LogY, target:   0.179346859455109       model:   0.189648098839725     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718960115460     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610374866535982E-002
+  
+ *********************************
+ EVALUATION NUMBER:           72
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           73
+  y1width:    1.13766603809697     
+  y2width:    7.88840028366649     
+  y1gridpar:   0.871557105115161     
+  y2gridpar:   0.773017412091235     
+  VarLogY, target:   0.677315771579742       model:   0.704340706359836     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077960626211325E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2616881492781     
+  VarD5LogY, target:   0.179346859455109       model:   0.189717616052474     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2890888054978     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.637604836044575E-002
+  
+ *********************************
+ EVALUATION NUMBER:           74
+  y1width:    1.13763522597336     
+  y2width:    7.88840816380648     
+  y1gridpar:   0.871573125784334     
+  y2gridpar:   0.773033274462682     
+  VarLogY, target:   0.677315771579742       model:   0.704323516773602     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077822422917832E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2634188697365     
+  VarD5LogY, target:   0.179346859455109       model:   0.189646089265887     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2721543757737     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610569495502854E-002
+  
+ ********************************** 
+ ********************************** 
+ DFLS/DFBOLS MINIMIZATION ATTEMPT            2
+ *********************************
+ EVALUATION NUMBER:           75
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           76
+  y1width:    5.36303667620385     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.680034873839776     
+  VarD1LogY, target:   4.976493865251541E-002  model:   3.740902895099638E-002
+  KurtD1LogY, target:    18.6184825897217       model:    108.391415512620     
+  VarD5LogY, target:   0.179346859455109       model:   0.145875036521297     
+  KurtD5LogY, target:    9.04785060882568       model:    36.2656840672940     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.968119978904724     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.972339987754822     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.983160018920898     
+  objective fun:    1.09004204335682     
+  
+ *********************************
+ EVALUATION NUMBER:           77
+  y1width:    1.13765557095015     
+  y2width:    8.14595420692311     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704670294696798     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.107008074483772E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.2221847404339     
+  VarD5LogY, target:   0.179346859455109       model:   0.190974350166516     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6704382386195     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740400016307831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793560028076172     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947319984436035     
+  objective fun:   5.490355115460113E-002
+  
+ *********************************
+ EVALUATION NUMBER:           78
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.998941749754262     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           79
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.997744148383861     
+  VarLogY, target:   0.677315771579742       model:   0.741544280006862     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.231338848048599E-002
+  KurtD1LogY, target:    18.6184825897217       model:    22.4513064327431     
+  VarD5LogY, target:   0.179346859455109       model:   0.195877523860728     
+  KurtD5LogY, target:    9.04785060882568       model:    10.8908308136146     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.741140007972717     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793600022792816     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.945900022983551     
+  objective fun:   8.091536996613903E-002
+  
+ *********************************
+ EVALUATION NUMBER:           80
+  y1width:   0.565817725213459     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.656027344448657     
+  VarD1LogY, target:   4.976493865251541E-002  model:   2.505830307768088E-002
+  KurtD1LogY, target:    18.6184825897217       model:    58.7100599762191     
+  VarD5LogY, target:   0.179346859455109       model:   0.109459274690831     
+  KurtD5LogY, target:    9.04785060882568       model:    23.7082381376926     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.761319994926453     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.869239985942841     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.987540006637573     
+  objective fun:   0.563294151166672     
+  
+ *********************************
+ EVALUATION NUMBER:           81
+  y1width:    1.13765557095015     
+  y2width:    1.95313723483824     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.461344268224586     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.590256617007129E-002
+  KurtD1LogY, target:    18.6184825897217       model:    12.2596129476279     
+  VarD5LogY, target:   0.179346859455109       model:   0.163263689827748     
+  KurtD5LogY, target:    9.04785060882568       model:    6.52907158352188     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739899992942810     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795220017433167     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.948660016059875     
+  objective fun:   0.155231578528362     
+  
+ *********************************
+ EVALUATION NUMBER:           82
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.320378633400420     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           83
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.309693560072968     
+  VarLogY, target:   0.677315771579742       model:   0.680901541434494     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.068436652943392E-002
+  KurtD1LogY, target:    18.6184825897217       model:    22.5859585603967     
+  VarD5LogY, target:   0.179346859455109       model:   0.188751716149003     
+  KurtD5LogY, target:    9.04785060882568       model:    11.3484325587315     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740520000457764     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793959975242615     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947480022907257     
+  objective fun:   7.098425561792225E-002
+  
+ *********************************
+ EVALUATION NUMBER:           84
+  y1width:    1.27151180985861     
+  y2width:    5.49189903520757     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.994876376376540     
+  VarLogY, target:   0.677315771579742       model:   0.722561837232598     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.805974379133828E-002
+  KurtD1LogY, target:    18.6184825897217       model:    18.2286160970858     
+  VarD5LogY, target:   0.179346859455109       model:   0.211535331883630     
+  KurtD5LogY, target:    9.04785060882568       model:    9.51304586777009     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.743640005588531     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793219983577728     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.927739977836609     
+  objective fun:   0.100553115317999     
+  
+ *********************************
+ EVALUATION NUMBER:           85
+  y1width:    1.19220547745312     
+  y2width:    6.46108108658193     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.922983965743186     
+  VarLogY, target:   0.677315771579742       model:   0.717112797455635     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.441891108479777E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.7945362770864     
+  VarD5LogY, target:   0.179346859455109       model:   0.200888955339433     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2305638398550     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.744819998741150     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.796180009841919     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.939620018005371     
+  objective fun:   7.245117342957905E-002
+  
+ *********************************
+ EVALUATION NUMBER:           86
+  y1width:    1.44588511962526     
+  y2width:    7.89178926009902     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773023645474654     
+  VarLogY, target:   0.677315771579742       model:   0.731246922153110     
+  VarD1LogY, target:   4.976493865251541E-002  model:   6.527890115972086E-002
+  KurtD1LogY, target:    18.6184825897217       model:    15.2797732262603     
+  VarD5LogY, target:   0.179346859455109       model:   0.233886341838516     
+  KurtD5LogY, target:    9.04785060882568       model:    8.27538174349843     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.751540005207062     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.798259973526001     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.912100017070770     
+  objective fun:   0.174301113240088     
+  
+ *********************************
+ EVALUATION NUMBER:           87
+  y1width:    1.13005837312363     
+  y2width:    8.06508117544277     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.821110064352630     
+  VarLogY, target:   0.677315771579742       model:   0.711937868857364     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.117969624642052E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.9267498153109     
+  VarD5LogY, target:   0.179346859455109       model:   0.191399119124406     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6793259292674     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740180015563965     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792859971523285     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946640014648438     
+  objective fun:   5.937347811113018E-002
+  
+ *********************************
+ EVALUATION NUMBER:           88
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.916038461104169     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           89
+  y1width:    1.13360321439964     
+  y2width:    7.73048332607186     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.766446148463659     
+  VarLogY, target:   0.677315771579742       model:   0.701410245361474     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.073501897165729E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.8936211424789     
+  VarD5LogY, target:   0.179346859455109       model:   0.189854790146070     
+  KurtD5LogY, target:    9.04785060882568       model:    10.7653707018852     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740079998970032     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792980015277863     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947239995002747     
+  objective fun:   5.345022624673625E-002
+  
+ *********************************
+ EVALUATION NUMBER:           90
+  y1width:   0.927362693625723     
+  y2width:    7.88840406000485     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773950754471277     
+  VarLogY, target:   0.677315771579742       model:   0.686101678765130     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.101828247315545E-002
+  KurtD1LogY, target:    18.6184825897217       model:    25.7623701104969     
+  VarD5LogY, target:   0.179346859455109       model:   0.159009967192335     
+  KurtD5LogY, target:    9.04785060882568       model:    12.9814887906267     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.733160018920898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.807739973068237     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.975340008735657     
+  objective fun:   0.136864693817137     
+  
+ *********************************
+ EVALUATION NUMBER:           91
+  y1width:    1.12755888938928     
+  y2width:    7.93837788145035     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.835759340789684     
+  VarLogY, target:   0.677315771579742       model:   0.712533633662260     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.123378407209391E-002
+  KurtD1LogY, target:    18.6184825897217       model:    21.0108231951991     
+  VarD5LogY, target:   0.179346859455109       model:   0.191593072853526     
+  KurtD5LogY, target:    9.04785060882568       model:    10.7386300636806     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739859998226166     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792739987373352     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946600019931793     
+  objective fun:   6.077226959408224E-002
+  
+ *********************************
+ EVALUATION NUMBER:           92
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.810769225962114     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           93
+  y1width:    1.12451414095199     
+  y2width:    7.93794548752211     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.699637284617064     
+  VarLogY, target:   0.677315771579742       model:   0.699883882047986     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.065072811319365E-002
+  KurtD1LogY, target:    18.6184825897217       model:    21.0476515033592     
+  VarD5LogY, target:   0.179346859455109       model:   0.188776199891415     
+  KurtD5LogY, target:    9.04785060882568       model:    11.1426359426150     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739080011844635     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792379975318909     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946940004825592     
+  objective fun:   6.163174772612539E-002
+  
+ *********************************
+ EVALUATION NUMBER:           94
+  y1width:    1.13730937342645     
+  y2width:    7.98806943282628     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.777985012893936     
+  VarLogY, target:   0.677315771579742       model:   0.704153050667583     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.092481819272608E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.6332456490928     
+  VarD5LogY, target:   0.179346859455109       model:   0.190411485682725     
+  KurtD5LogY, target:    9.04785060882568       model:    10.4979987588317     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793439984321594     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947139978408813     
+  objective fun:   5.038883797742023E-002
+  
+ *********************************
+ EVALUATION NUMBER:           95
+  y1width:    1.14118366429713     
+  y2width:    7.90014856601314     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.778242353561778     
+  VarLogY, target:   0.677315771579742       model:   0.704485168198425     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.102001562820367E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1793301742464     
+  VarD5LogY, target:   0.179346859455109       model:   0.190509358467514     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3388043824481     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740660011768341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793720006942749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947300016880035     
+  objective fun:   4.798733853190366E-002
+  
+ *********************************
+ EVALUATION NUMBER:           96
+  y1width:    1.13789907776671     
+  y2width:    7.88294109800363     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.779886733105498     
+  VarLogY, target:   0.677315771579742       model:   0.704218901838273     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.085724982420196E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2410080981587     
+  VarD5LogY, target:   0.179346859455109       model:   0.190090620687873     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3521322508793     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740279972553253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793399989604950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947080016136169     
+  objective fun:   4.753888991408623E-002
+  
+ *********************************
+ EVALUATION NUMBER:           97
+  y1width:    1.14069922181107     
+  y2width:    7.88465864654638     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.765703000433222     
+  VarLogY, target:   0.677315771579742       model:   0.703371441873667     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.097274771291004E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1716609077462     
+  VarD5LogY, target:   0.179346859455109       model:   0.190808539999601     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5816835001720     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740459978580475     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793479979038239     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947459995746613     
+  objective fun:   5.107195792190504E-002
+  
+ *********************************
+ EVALUATION NUMBER:           98
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.876725270000493     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:           99
+  y1width:    1.13959189290543     
+  y2width:    7.88782586544283     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780598346185496     
+  VarLogY, target:   0.677315771579742       model:   0.704248378718675     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.098335151162370E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2618636088898     
+  VarD5LogY, target:   0.179346859455109       model:   0.190371110521201     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3549461512213     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740419983863831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793500006198883     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947080016136169     
+  objective fun:   4.806273677719392E-002
+  
+ *********************************
+ EVALUATION NUMBER:          100
+  y1width:    1.11266980559664     
+  y2width:    7.88916826113348     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772869473359808     
+  VarLogY, target:   0.677315771579742       model:   0.702190433477103     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.969479134639434E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.7364625848263     
+  VarD5LogY, target:   0.179346859455109       model:   0.186218367021471     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5054455324850     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.738240003585815     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.791760027408600     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947160005569458     
+  objective fun:   4.624591880521323E-002
+  
+ *********************************
+ EVALUATION NUMBER:          101
+  y1width:    1.14132779522566     
+  y2width:    7.89117423496581     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780359073903953     
+  VarLogY, target:   0.677315771579742       model:   0.704142270807023     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.106715272395008E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2363742016784     
+  VarD5LogY, target:   0.179346859455109       model:   0.190566752718407     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3446700256960     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740660011768341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793739974498749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.819696650083354E-002
+  
+ *********************************
+ EVALUATION NUMBER:          102
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.866237804512127     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          103
+  y1width:    1.14138208637787     
+  y2width:    7.89106750689496     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780371377190318     
+  VarLogY, target:   0.677315771579742       model:   0.704155523921069     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.107091998892578E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2347359299606     
+  VarD5LogY, target:   0.179346859455109       model:   0.190578836400072     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3438909537977     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740660011768341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793739974498749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.820634001800946E-002
+  
+ *********************************
+ EVALUATION NUMBER:          104
+  y1width:    1.16367544324655     
+  y2width:    7.88825164051635     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772992573083840     
+  VarLogY, target:   0.677315771579742       model:   0.706421267490836     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.218001117050038E-002
+  KurtD1LogY, target:    18.6184825897217       model:    18.7881027244942     
+  VarD5LogY, target:   0.179346859455109       model:   0.193506121852009     
+  KurtD5LogY, target:    9.04785060882568       model:    10.0569334277049     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742439985275269     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794979989528656     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947459995746613     
+  objective fun:   5.104361412611742E-002
+  
+ *********************************
+ EVALUATION NUMBER:          105
+  y1width:    1.13986511581562     
+  y2width:    7.89117044728297     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780410667111232     
+  VarLogY, target:   0.677315771579742       model:   0.704059352451192     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.098874625520487E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2720056968993     
+  VarD5LogY, target:   0.179346859455109       model:   0.190371287356862     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3592358504411     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740520000457764     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793619990348816     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.809069258686773E-002
+  
+ *********************************
+ EVALUATION NUMBER:          106
+  y1width:    1.13981573500175     
+  y2width:    7.88977062782747     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.776696665213517     
+  VarLogY, target:   0.677315771579742       model:   0.704730088818359     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.088636611589002E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1036595147887     
+  VarD5LogY, target:   0.179346859455109       model:   0.190153407652294     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3138846775304     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740559995174408     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793619990348816     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947300016880035     
+  objective fun:   4.710300677006026E-002
+  
+ *********************************
+ EVALUATION NUMBER:          107
+  y1width:    1.13780991592681     
+  y2width:    7.88984351933734     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772819109213114     
+  VarLogY, target:   0.677315771579742       model:   0.704350468772222     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078772284253808E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2537666526975     
+  VarD5LogY, target:   0.179346859455109       model:   0.189772969807135     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2859436229907     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793359994888306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.639972499042126E-002
+  
+ *********************************
+ EVALUATION NUMBER:          108
+  y1width:    1.13897347858877     
+  y2width:    7.88570402668785     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773924663573703     
+  VarLogY, target:   0.677315771579742       model:   0.704433203887077     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.087171655949013E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2544727882101     
+  VarD5LogY, target:   0.179346859455109       model:   0.189827825820558     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718673380506     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740379989147186     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793439984321594     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947319984436035     
+  objective fun:   4.641257872027908E-002
+  
+ *********************************
+ EVALUATION NUMBER:          109
+  y1width:    1.13511329430569     
+  y2width:    7.88842835309763     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773074929030772     
+  VarLogY, target:   0.677315771579742       model:   0.703979617458966     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.063421401844913E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3308750192970     
+  VarD5LogY, target:   0.179346859455109       model:   0.189248897528623     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2993238792340     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740180015563965     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793259978294373     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947399973869324     
+  objective fun:   4.591757975770513E-002
+  
+ *********************************
+ EVALUATION NUMBER:          110
+  y1width:    1.13921709479392     
+  y2width:    7.88761475137833     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773394863496799     
+  VarLogY, target:   0.677315771579742       model:   0.704484412194386     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.086594574103673E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2363233515214     
+  VarD5LogY, target:   0.179346859455109       model:   0.189914099557043     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2639414034972     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740419983863831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793479979038239     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947340011596680     
+  objective fun:   4.638125568857816E-002
+  
+ *********************************
+ EVALUATION NUMBER:          111
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.872088029062742     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          112
+  y1width:    1.13646304463460     
+  y2width:    7.88735398821654     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773243518766286     
+  VarLogY, target:   0.677315771579742       model:   0.704046684715711     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.071703270210530E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2976641886754     
+  VarD5LogY, target:   0.179346859455109       model:   0.189480288531064     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2869470566237     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.604530469690000E-002
+  
+ *********************************
+ EVALUATION NUMBER:          113
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871039326210265     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          114
+  y1width:    1.13683051458753     
+  y2width:    7.88781594826557     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772397119741113     
+  VarLogY, target:   0.677315771579742       model:   0.704263769245749     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.073621175847046E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2538488390128     
+  VarD5LogY, target:   0.179346859455109       model:   0.189755622473406     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3504974560527     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740279972553253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793299973011017     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.707973111129823E-002
+  
+ *********************************
+ EVALUATION NUMBER:          115
+  y1width:    1.13777726300779     
+  y2width:    7.88879623984687     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773754196821332     
+  VarLogY, target:   0.677315771579742       model:   0.704424828392724     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080548590430995E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2918653805385     
+  VarD5LogY, target:   0.179346859455109       model:   0.189684325397336     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2845481831080     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.638274082135276E-002
+  
+ *********************************
+ EVALUATION NUMBER:          116
+  y1width:    1.13706879551569     
+  y2width:    7.88862653627663     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773760683761515     
+  VarLogY, target:   0.677315771579742       model:   0.704369358902187     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.076179118996951E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3107837362828     
+  VarD5LogY, target:   0.179346859455109       model:   0.189568452387440     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2919073246589     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.632282319838799E-002
+  
+ *********************************
+ EVALUATION NUMBER:          117
+  y1width:    1.13736211811696     
+  y2width:    7.88851535274110     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773394267463331     
+  VarLogY, target:   0.677315771579742       model:   0.704348676876167     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.076431858233038E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2854503942834     
+  VarD5LogY, target:   0.179346859455109       model:   0.189684075812815     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2801269801498     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.625875437576201E-002
+  
+ *********************************
+ EVALUATION NUMBER:          118
+  y1width:    1.13770278687765     
+  y2width:    7.88857427572772     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773001593832239     
+  VarLogY, target:   0.677315771579742       model:   0.704342829799178     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078199989717037E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2606446598871     
+  VarD5LogY, target:   0.179346859455109       model:   0.189724991969447     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2886162557678     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.637977980105599E-002
+  
+ *********************************
+ EVALUATION NUMBER:          119
+  y1width:    1.13749409987036     
+  y2width:    7.88811302584315     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773078438082518     
+  VarLogY, target:   0.677315771579742       model:   0.704268782101846     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077895894720656E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2632312192793     
+  VarD5LogY, target:   0.179346859455109       model:   0.189653003730880     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2721391654825     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.610658654086840E-002
+  
+ *********************************
+ EVALUATION NUMBER:          120
+  y1width:    1.13759720702219     
+  y2width:    7.88835550807984     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772924735303535     
+  VarLogY, target:   0.677315771579742       model:   0.704362166414344     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077282072625385E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2581482700744     
+  VarD5LogY, target:   0.179346859455109       model:   0.189746567516140     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2864531168991     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793359994888306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.636884595189878E-002
+  
+ *********************************
+ EVALUATION NUMBER:          121
+  y1width:    1.13781565030372     
+  y2width:    7.88831598593227     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773108350694130     
+  VarLogY, target:   0.677315771579742       model:   0.704260750210279     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080019748995251E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2570652410818     
+  VarD5LogY, target:   0.179346859455109       model:   0.189695492437149     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2712646508552     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.615223642034964E-002
+  
+ *********************************
+ EVALUATION NUMBER:          122
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871638645337660     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          123
+  y1width:    1.13737970806131     
+  y2width:    7.88837221442330     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773094675864561     
+  VarLogY, target:   0.677315771579742       model:   0.704180718522475     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077289123368559E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2687850821970     
+  VarD5LogY, target:   0.179346859455109       model:   0.189639774367288     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2743965596676     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.610399231429262E-002
+  
+ *********************************
+ EVALUATION NUMBER:          124
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871490336419205     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          125
+  y1width:    1.13781971846291     
+  y2width:    7.88830456978815     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773102417937587     
+  VarLogY, target:   0.677315771579742       model:   0.704248025833372     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080018824001060E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2566112619223     
+  VarD5LogY, target:   0.179346859455109       model:   0.189694839047873     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2710680830178     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.614634061365105E-002
+  
+ *********************************
+ EVALUATION NUMBER:          126
+  y1width:    1.13734121079818     
+  y2width:    7.88845002661671     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772982308804356     
+  VarLogY, target:   0.677315771579742       model:   0.704248603531194     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.075881818658218E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2689156291326     
+  VarD5LogY, target:   0.179346859455109       model:   0.189660920744999     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2914258270921     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.631827695241726E-002
+  
+ *********************************
+ EVALUATION NUMBER:          127
+  y1width:    1.13762804289726     
+  y2width:    7.88828765927693     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773108765181139     
+  VarLogY, target:   0.677315771579742       model:   0.704233249149174     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078760329287911E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2628235848149     
+  VarD5LogY, target:   0.179346859455109       model:   0.189677826829500     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2724367420358     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.613526844491804E-002
+  
+ *********************************
+ EVALUATION NUMBER:          128
+  y1width:    1.13766853688713     
+  y2width:    7.88835977128841     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773074296723199     
+  VarLogY, target:   0.677315771579742       model:   0.704301384279276     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078914149884400E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2603198556897     
+  VarD5LogY, target:   0.179346859455109       model:   0.189677513089440     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2716032371915     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.613607525023086E-002
+  
+ *********************************
+ EVALUATION NUMBER:          129
+  y1width:    1.13766705316745     
+  y2width:    7.88842160820364     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773037955297700     
+  VarLogY, target:   0.677315771579742       model:   0.704338706059940     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078058353163915E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2627009508385     
+  VarD5LogY, target:   0.179346859455109       model:   0.189651452007412     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2720756179687     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611483546089428E-002
+  
+ *********************************
+ EVALUATION NUMBER:          130
+  y1width:    1.13761832599540     
+  y2width:    7.88836896779040     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773039603980946     
+  VarLogY, target:   0.677315771579742       model:   0.704327266710417     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077722271097915E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2640510076647     
+  VarD5LogY, target:   0.179346859455109       model:   0.189643231294088     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2724382940795     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610647588837057E-002
+  
+ *********************************
+ EVALUATION NUMBER:          131
+  y1width:    1.13760925224930     
+  y2width:    7.88841421911046     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773025734262175     
+  VarLogY, target:   0.677315771579742       model:   0.704311432570171     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077620465944215E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2639156649984     
+  VarD5LogY, target:   0.179346859455109       model:   0.189639128480418     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2723974041562     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.609756100954814E-002
+  
+ *********************************
+ EVALUATION NUMBER:          132
+  y1width:    1.13766658725396     
+  y2width:    7.88837985395580     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773029259358757     
+  VarLogY, target:   0.677315771579742       model:   0.704315226719049     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078005698986372E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2621166186035     
+  VarD5LogY, target:   0.179346859455109       model:   0.189648698994336     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718280232769     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610344292513826E-002
+  
+ *********************************
+ EVALUATION NUMBER:          133
+  y1width:    1.13767007298160     
+  y2width:    7.88842339365976     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773018784678077     
+  VarLogY, target:   0.677315771579742       model:   0.704347562789379     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078000936703109E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2617354076624     
+  VarD5LogY, target:   0.179346859455109       model:   0.189719177966916     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2891051854881     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.637961160970209E-002
+  
+ *********************************
+ EVALUATION NUMBER:          134
+  y1width:    1.13763572235982     
+  y2width:    7.88839337308440     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773040041956935     
+  VarLogY, target:   0.677315771579742       model:   0.704334225016646     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077848335535892E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2636429737135     
+  VarD5LogY, target:   0.179346859455109       model:   0.189647402398387     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2722463500989     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611066836885002E-002
+  
+ *********************************
+ EVALUATION NUMBER:          135
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871574994167407     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          136
+  y1width:    1.13761931132840     
+  y2width:    7.88838979577739     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773033820386740     
+  VarLogY, target:   0.677315771579742       model:   0.704319606567010     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077712291408681E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2638545365037     
+  VarD5LogY, target:   0.179346859455109       model:   0.189642551890058     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2723564300390     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610304635004177E-002
+  
+ *********************************
+ EVALUATION NUMBER:          137
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871554020119190     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          138
+  y1width:    1.13763272063560     
+  y2width:    7.88839175458184     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773038970833024     
+  VarLogY, target:   0.677315771579742       model:   0.704331525168598     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077823398920302E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2636801190037     
+  VarD5LogY, target:   0.179346859455109       model:   0.189646512308884     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2722657548227     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610925488860577E-002
+  
+ ********************************** 
+ ********************************** 
+ DFLS/DFBOLS MINIMIZATION ATTEMPT            3
+ *********************************
+ EVALUATION NUMBER:          139
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          140
+  y1width:    5.36303667620385     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.680034873839776     
+  VarD1LogY, target:   4.976493865251541E-002  model:   3.740902895099638E-002
+  KurtD1LogY, target:    18.6184825897217       model:    108.391415512620     
+  VarD5LogY, target:   0.179346859455109       model:   0.145875036521297     
+  KurtD5LogY, target:    9.04785060882568       model:    36.2656840672940     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.968119978904724     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.972339987754822     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.983160018920898     
+  objective fun:    1.09004204335682     
+  
+ *********************************
+ EVALUATION NUMBER:          141
+  y1width:    1.13765557095015     
+  y2width:    8.14595420692311     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704670294696798     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.107008074483772E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.2221847404339     
+  VarD5LogY, target:   0.179346859455109       model:   0.190974350166516     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6704382386195     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740400016307831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793560028076172     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947319984436035     
+  objective fun:   5.490355115460113E-002
+  
+ *********************************
+ EVALUATION NUMBER:          142
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.998941749754262     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          143
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.997744148383861     
+  VarLogY, target:   0.677315771579742       model:   0.741544280006862     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.231338848048599E-002
+  KurtD1LogY, target:    18.6184825897217       model:    22.4513064327431     
+  VarD5LogY, target:   0.179346859455109       model:   0.195877523860728     
+  KurtD5LogY, target:    9.04785060882568       model:    10.8908308136146     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.741140007972717     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793600022792816     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.945900022983551     
+  objective fun:   8.091536996613903E-002
+  
+ *********************************
+ EVALUATION NUMBER:          144
+  y1width:   0.565817725213459     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.656027344448657     
+  VarD1LogY, target:   4.976493865251541E-002  model:   2.505830307768088E-002
+  KurtD1LogY, target:    18.6184825897217       model:    58.7100599762191     
+  VarD5LogY, target:   0.179346859455109       model:   0.109459274690831     
+  KurtD5LogY, target:    9.04785060882568       model:    23.7082381376926     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.761319994926453     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.869239985942841     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.987540006637573     
+  objective fun:   0.563294151166672     
+  
+ *********************************
+ EVALUATION NUMBER:          145
+  y1width:    1.13765557095015     
+  y2width:    1.95313723483824     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.461344268224586     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.590256617007129E-002
+  KurtD1LogY, target:    18.6184825897217       model:    12.2596129476279     
+  VarD5LogY, target:   0.179346859455109       model:   0.163263689827748     
+  KurtD5LogY, target:    9.04785060882568       model:    6.52907158352188     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739899992942810     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.795220017433167     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.948660016059875     
+  objective fun:   0.155231578528362     
+  
+ *********************************
+ EVALUATION NUMBER:          146
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.320378633400420     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          147
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.309693560072968     
+  VarLogY, target:   0.677315771579742       model:   0.680901541434494     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.068436652943392E-002
+  KurtD1LogY, target:    18.6184825897217       model:    22.5859585603967     
+  VarD5LogY, target:   0.179346859455109       model:   0.188751716149003     
+  KurtD5LogY, target:    9.04785060882568       model:    11.3484325587315     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740520000457764     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793959975242615     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947480022907257     
+  objective fun:   7.098425561792225E-002
+  
+ *********************************
+ EVALUATION NUMBER:          148
+  y1width:    1.27151180985861     
+  y2width:    5.49189903520757     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.994876376376540     
+  VarLogY, target:   0.677315771579742       model:   0.722561837232598     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.805974379133828E-002
+  KurtD1LogY, target:    18.6184825897217       model:    18.2286160970858     
+  VarD5LogY, target:   0.179346859455109       model:   0.211535331883630     
+  KurtD5LogY, target:    9.04785060882568       model:    9.51304586777009     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.743640005588531     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793219983577728     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.927739977836609     
+  objective fun:   0.100553115317999     
+  
+ *********************************
+ EVALUATION NUMBER:          149
+  y1width:    1.19220547745312     
+  y2width:    6.46108108658193     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.922983965743186     
+  VarLogY, target:   0.677315771579742       model:   0.717112797455635     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.441891108479777E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.7945362770864     
+  VarD5LogY, target:   0.179346859455109       model:   0.200888955339433     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2305638398550     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.744819998741150     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.796180009841919     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.939620018005371     
+  objective fun:   7.245117342957905E-002
+  
+ *********************************
+ EVALUATION NUMBER:          150
+  y1width:    1.44588511962526     
+  y2width:    7.89178926009902     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773023645474654     
+  VarLogY, target:   0.677315771579742       model:   0.731246922153110     
+  VarD1LogY, target:   4.976493865251541E-002  model:   6.527890115972086E-002
+  KurtD1LogY, target:    18.6184825897217       model:    15.2797732262603     
+  VarD5LogY, target:   0.179346859455109       model:   0.233886341838516     
+  KurtD5LogY, target:    9.04785060882568       model:    8.27538174349843     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.751540005207062     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.798259973526001     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.912100017070770     
+  objective fun:   0.174301113240088     
+  
+ *********************************
+ EVALUATION NUMBER:          151
+  y1width:    1.13005837312363     
+  y2width:    8.06508117544277     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.821110064352630     
+  VarLogY, target:   0.677315771579742       model:   0.711937868857364     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.117969624642052E-002
+  KurtD1LogY, target:    18.6184825897217       model:    20.9267498153109     
+  VarD5LogY, target:   0.179346859455109       model:   0.191399119124406     
+  KurtD5LogY, target:    9.04785060882568       model:    10.6793259292674     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740180015563965     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792859971523285     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946640014648438     
+  objective fun:   5.937347811113018E-002
+  
+ *********************************
+ EVALUATION NUMBER:          152
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.916038461104169     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          153
+  y1width:    1.13360321439964     
+  y2width:    7.73048332607186     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.766446148463659     
+  VarLogY, target:   0.677315771579742       model:   0.701410245361474     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.073501897165729E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.8936211424789     
+  VarD5LogY, target:   0.179346859455109       model:   0.189854790146070     
+  KurtD5LogY, target:    9.04785060882568       model:    10.7653707018852     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740079998970032     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792980015277863     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947239995002747     
+  objective fun:   5.345022624673625E-002
+  
+ *********************************
+ EVALUATION NUMBER:          154
+  y1width:   0.927362693625723     
+  y2width:    7.88840406000485     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773950754471277     
+  VarLogY, target:   0.677315771579742       model:   0.686101678765130     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.101828247315545E-002
+  KurtD1LogY, target:    18.6184825897217       model:    25.7623701104969     
+  VarD5LogY, target:   0.179346859455109       model:   0.159009967192335     
+  KurtD5LogY, target:    9.04785060882568       model:    12.9814887906267     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.733160018920898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.807739973068237     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.975340008735657     
+  objective fun:   0.136864693817137     
+  
+ *********************************
+ EVALUATION NUMBER:          155
+  y1width:    1.12755888938928     
+  y2width:    7.93837788145035     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.835759340789684     
+  VarLogY, target:   0.677315771579742       model:   0.712533633662260     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.123378407209391E-002
+  KurtD1LogY, target:    18.6184825897217       model:    21.0108231951991     
+  VarD5LogY, target:   0.179346859455109       model:   0.191593072853526     
+  KurtD5LogY, target:    9.04785060882568       model:    10.7386300636806     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739859998226166     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792739987373352     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946600019931793     
+  objective fun:   6.077226959408224E-002
+  
+ *********************************
+ EVALUATION NUMBER:          156
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.810769225962114     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          157
+  y1width:    1.12451414095199     
+  y2width:    7.93794548752211     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.699637284617064     
+  VarLogY, target:   0.677315771579742       model:   0.699883882047986     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.065072811319365E-002
+  KurtD1LogY, target:    18.6184825897217       model:    21.0476515033592     
+  VarD5LogY, target:   0.179346859455109       model:   0.188776199891415     
+  KurtD5LogY, target:    9.04785060882568       model:    11.1426359426150     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.739080011844635     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.792379975318909     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.946940004825592     
+  objective fun:   6.163174772612539E-002
+  
+ *********************************
+ EVALUATION NUMBER:          158
+  y1width:    1.13730937342645     
+  y2width:    7.98806943282628     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.777985012893936     
+  VarLogY, target:   0.677315771579742       model:   0.704153050667583     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.092481819272608E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.6332456490928     
+  VarD5LogY, target:   0.179346859455109       model:   0.190411485682725     
+  KurtD5LogY, target:    9.04785060882568       model:    10.4979987588317     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793439984321594     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947139978408813     
+  objective fun:   5.038883797742023E-002
+  
+ *********************************
+ EVALUATION NUMBER:          159
+  y1width:    1.14118366429713     
+  y2width:    7.90014856601314     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.778242353561778     
+  VarLogY, target:   0.677315771579742       model:   0.704485168198425     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.102001562820367E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1793301742464     
+  VarD5LogY, target:   0.179346859455109       model:   0.190509358467514     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3388043824481     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740660011768341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793720006942749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947300016880035     
+  objective fun:   4.798733853190366E-002
+  
+ *********************************
+ EVALUATION NUMBER:          160
+  y1width:    1.13789907776671     
+  y2width:    7.88294109800363     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.779886733105498     
+  VarLogY, target:   0.677315771579742       model:   0.704218901838273     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.085724982420196E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2410080981587     
+  VarD5LogY, target:   0.179346859455109       model:   0.190090620687873     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3521322508793     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740279972553253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793399989604950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947080016136169     
+  objective fun:   4.753888991408623E-002
+  
+ *********************************
+ EVALUATION NUMBER:          161
+  y1width:    1.14069922181107     
+  y2width:    7.88465864654638     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.765703000433222     
+  VarLogY, target:   0.677315771579742       model:   0.703371441873667     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.097274771291004E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1716609077462     
+  VarD5LogY, target:   0.179346859455109       model:   0.190808539999601     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5816835001720     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740459978580475     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793479979038239     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947459995746613     
+  objective fun:   5.107195792190504E-002
+  
+ *********************************
+ EVALUATION NUMBER:          162
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.876725270000493     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          163
+  y1width:    1.13959189290543     
+  y2width:    7.88782586544283     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780598346185496     
+  VarLogY, target:   0.677315771579742       model:   0.704248378718675     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.098335151162370E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2618636088898     
+  VarD5LogY, target:   0.179346859455109       model:   0.190371110521201     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3549461512213     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740419983863831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793500006198883     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947080016136169     
+  objective fun:   4.806273677719392E-002
+  
+ *********************************
+ EVALUATION NUMBER:          164
+  y1width:    1.11266980559664     
+  y2width:    7.88916826113348     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772869473359808     
+  VarLogY, target:   0.677315771579742       model:   0.702190433477103     
+  VarD1LogY, target:   4.976493865251541E-002  model:   4.969479134639434E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.7364625848263     
+  VarD5LogY, target:   0.179346859455109       model:   0.186218367021471     
+  KurtD5LogY, target:    9.04785060882568       model:    10.5054455324850     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.738240003585815     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.791760027408600     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947160005569458     
+  objective fun:   4.624591880521323E-002
+  
+ *********************************
+ EVALUATION NUMBER:          165
+  y1width:    1.14132779522566     
+  y2width:    7.89117423496581     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780359073903953     
+  VarLogY, target:   0.677315771579742       model:   0.704142270807023     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.106715272395008E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2363742016784     
+  VarD5LogY, target:   0.179346859455109       model:   0.190566752718407     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3446700256960     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740660011768341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793739974498749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.819696650083354E-002
+  
+ *********************************
+ EVALUATION NUMBER:          166
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.866237804512127     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          167
+  y1width:    1.14138208637787     
+  y2width:    7.89106750689496     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780371377190318     
+  VarLogY, target:   0.677315771579742       model:   0.704155523921069     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.107091998892578E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2347359299606     
+  VarD5LogY, target:   0.179346859455109       model:   0.190578836400072     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3438909537977     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740660011768341     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793739974498749     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.820634001800946E-002
+  
+ *********************************
+ EVALUATION NUMBER:          168
+  y1width:    1.16367544324655     
+  y2width:    7.88825164051635     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772992573083840     
+  VarLogY, target:   0.677315771579742       model:   0.706421267490836     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.218001117050038E-002
+  KurtD1LogY, target:    18.6184825897217       model:    18.7881027244942     
+  VarD5LogY, target:   0.179346859455109       model:   0.193506121852009     
+  KurtD5LogY, target:    9.04785060882568       model:    10.0569334277049     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.742439985275269     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.794979989528656     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947459995746613     
+  objective fun:   5.104361412611742E-002
+  
+ *********************************
+ EVALUATION NUMBER:          169
+  y1width:    1.13986511581562     
+  y2width:    7.89117044728297     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.780410667111232     
+  VarLogY, target:   0.677315771579742       model:   0.704059352451192     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.098874625520487E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2720056968993     
+  VarD5LogY, target:   0.179346859455109       model:   0.190371287356862     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3592358504411     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740520000457764     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793619990348816     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947099983692169     
+  objective fun:   4.809069258686773E-002
+  
+ *********************************
+ EVALUATION NUMBER:          170
+  y1width:    1.13981573500175     
+  y2width:    7.88977062782747     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.776696665213517     
+  VarLogY, target:   0.677315771579742       model:   0.704730088818359     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.088636611589002E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.1036595147887     
+  VarD5LogY, target:   0.179346859455109       model:   0.190153407652294     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3138846775304     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740559995174408     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793619990348816     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947300016880035     
+  objective fun:   4.710300677006026E-002
+  
+ *********************************
+ EVALUATION NUMBER:          171
+  y1width:    1.13780991592681     
+  y2width:    7.88984351933734     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772819109213114     
+  VarLogY, target:   0.677315771579742       model:   0.704350468772222     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078772284253808E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2537666526975     
+  VarD5LogY, target:   0.179346859455109       model:   0.189772969807135     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2859436229907     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793359994888306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.639972499042126E-002
+  
+ *********************************
+ EVALUATION NUMBER:          172
+  y1width:    1.13897347858877     
+  y2width:    7.88570402668785     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773924663573703     
+  VarLogY, target:   0.677315771579742       model:   0.704433203887077     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.087171655949013E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2544727882101     
+  VarD5LogY, target:   0.179346859455109       model:   0.189827825820558     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718673380506     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740379989147186     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793439984321594     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947319984436035     
+  objective fun:   4.641257872027908E-002
+  
+ *********************************
+ EVALUATION NUMBER:          173
+  y1width:    1.13511329430569     
+  y2width:    7.88842835309763     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773074929030772     
+  VarLogY, target:   0.677315771579742       model:   0.703979617458966     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.063421401844913E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3308750192970     
+  VarD5LogY, target:   0.179346859455109       model:   0.189248897528623     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2993238792340     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740180015563965     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793259978294373     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947399973869324     
+  objective fun:   4.591757975770513E-002
+  
+ *********************************
+ EVALUATION NUMBER:          174
+  y1width:    1.13921709479392     
+  y2width:    7.88761475137833     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773394863496799     
+  VarLogY, target:   0.677315771579742       model:   0.704484412194386     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.086594574103673E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2363233515214     
+  VarD5LogY, target:   0.179346859455109       model:   0.189914099557043     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2639414034972     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740419983863831     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793479979038239     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947340011596680     
+  objective fun:   4.638125568857816E-002
+  
+ *********************************
+ EVALUATION NUMBER:          175
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.872088029062742     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          176
+  y1width:    1.13646304463460     
+  y2width:    7.88735398821654     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773243518766286     
+  VarLogY, target:   0.677315771579742       model:   0.704046684715711     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.071703270210530E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2976641886754     
+  VarD5LogY, target:   0.179346859455109       model:   0.189480288531064     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2869470566237     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.604530469690000E-002
+  
+ *********************************
+ EVALUATION NUMBER:          177
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871039326210265     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          178
+  y1width:    1.13683051458753     
+  y2width:    7.88781594826557     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772397119741113     
+  VarLogY, target:   0.677315771579742       model:   0.704263769245749     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.073621175847046E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2538488390128     
+  VarD5LogY, target:   0.179346859455109       model:   0.189755622473406     
+  KurtD5LogY, target:    9.04785060882568       model:    10.3504974560527     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740279972553253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793299973011017     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.707973111129823E-002
+  
+ *********************************
+ EVALUATION NUMBER:          179
+  y1width:    1.13777726300779     
+  y2width:    7.88879623984687     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773754196821332     
+  VarLogY, target:   0.677315771579742       model:   0.704424828392724     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080548590430995E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2918653805385     
+  VarD5LogY, target:   0.179346859455109       model:   0.189684325397336     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2845481831080     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.638274082135276E-002
+  
+ *********************************
+ EVALUATION NUMBER:          180
+  y1width:    1.13706879551569     
+  y2width:    7.88862653627663     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773760683761515     
+  VarLogY, target:   0.677315771579742       model:   0.704369358902187     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.076179118996951E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.3107837362828     
+  VarD5LogY, target:   0.179346859455109       model:   0.189568452387440     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2919073246589     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740239977836609     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793320000171661     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.632282319838799E-002
+  
+ *********************************
+ EVALUATION NUMBER:          181
+  y1width:    1.13736211811696     
+  y2width:    7.88851535274110     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773394267463331     
+  VarLogY, target:   0.677315771579742       model:   0.704348676876167     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.076431858233038E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2854503942834     
+  VarD5LogY, target:   0.179346859455109       model:   0.189684075812815     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2801269801498     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.625875437576201E-002
+  
+ *********************************
+ EVALUATION NUMBER:          182
+  y1width:    1.13770278687765     
+  y2width:    7.88857427572772     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773001593832239     
+  VarLogY, target:   0.677315771579742       model:   0.704342829799178     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078199989717037E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2606446598871     
+  VarD5LogY, target:   0.179346859455109       model:   0.189724991969447     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2886162557678     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.637977980105599E-002
+  
+ *********************************
+ EVALUATION NUMBER:          183
+  y1width:    1.13749409987036     
+  y2width:    7.88811302584315     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773078438082518     
+  VarLogY, target:   0.677315771579742       model:   0.704268782101846     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077895894720656E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2632312192793     
+  VarD5LogY, target:   0.179346859455109       model:   0.189653003730880     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2721391654825     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.610658654086840E-002
+  
+ *********************************
+ EVALUATION NUMBER:          184
+  y1width:    1.13759720702219     
+  y2width:    7.88835550807984     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772924735303535     
+  VarLogY, target:   0.677315771579742       model:   0.704362166414344     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077282072625385E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2581482700744     
+  VarD5LogY, target:   0.179346859455109       model:   0.189746567516140     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2864531168991     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793359994888306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.636884595189878E-002
+  
+ *********************************
+ EVALUATION NUMBER:          185
+  y1width:    1.13781565030372     
+  y2width:    7.88831598593227     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773108350694130     
+  VarLogY, target:   0.677315771579742       model:   0.704260750210279     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080019748995251E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2570652410818     
+  VarD5LogY, target:   0.179346859455109       model:   0.189695492437149     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2712646508552     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.615223642034964E-002
+  
+ *********************************
+ EVALUATION NUMBER:          186
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871638645337660     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          187
+  y1width:    1.13737970806131     
+  y2width:    7.88837221442330     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773094675864561     
+  VarLogY, target:   0.677315771579742       model:   0.704180718522475     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077289123368559E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2687850821970     
+  VarD5LogY, target:   0.179346859455109       model:   0.189639774367288     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2743965596676     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.610399231429262E-002
+  
+ *********************************
+ EVALUATION NUMBER:          188
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871490336419205     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          189
+  y1width:    1.13781971846291     
+  y2width:    7.88830456978815     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773102417937587     
+  VarLogY, target:   0.677315771579742       model:   0.704248025833372     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.080018824001060E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2566112619223     
+  VarD5LogY, target:   0.179346859455109       model:   0.189694839047873     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2710680830178     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.614634061365105E-002
+  
+ *********************************
+ EVALUATION NUMBER:          190
+  y1width:    1.13734121079818     
+  y2width:    7.88845002661671     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.772982308804356     
+  VarLogY, target:   0.677315771579742       model:   0.704248603531194     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.075881818658218E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2689156291326     
+  VarD5LogY, target:   0.179346859455109       model:   0.189660920744999     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2914258270921     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740260004997253     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793340027332306     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.631827695241726E-002
+  
+ *********************************
+ EVALUATION NUMBER:          191
+  y1width:    1.13762804289726     
+  y2width:    7.88828765927693     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773108765181139     
+  VarLogY, target:   0.677315771579742       model:   0.704233249149174     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078760329287911E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2628235848149     
+  VarD5LogY, target:   0.179346859455109       model:   0.189677826829500     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2724367420358     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.613526844491804E-002
+  
+ *********************************
+ EVALUATION NUMBER:          192
+  y1width:    1.13766853688713     
+  y2width:    7.88835977128841     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773074296723199     
+  VarLogY, target:   0.677315771579742       model:   0.704301384279276     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078914149884400E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2603198556897     
+  VarD5LogY, target:   0.179346859455109       model:   0.189677513089440     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2716032371915     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947359979152679     
+  objective fun:   4.613607525023086E-002
+  
+ *********************************
+ EVALUATION NUMBER:          193
+  y1width:    1.13766705316745     
+  y2width:    7.88842160820364     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773037955297700     
+  VarLogY, target:   0.677315771579742       model:   0.704338706059940     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078058353163915E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2627009508385     
+  VarD5LogY, target:   0.179346859455109       model:   0.189651452007412     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2720756179687     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611483546089428E-002
+  
+ *********************************
+ EVALUATION NUMBER:          194
+  y1width:    1.13761832599540     
+  y2width:    7.88836896779040     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773039603980946     
+  VarLogY, target:   0.677315771579742       model:   0.704327266710417     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077722271097915E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2640510076647     
+  VarD5LogY, target:   0.179346859455109       model:   0.189643231294088     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2724382940795     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610647588837057E-002
+  
+ *********************************
+ EVALUATION NUMBER:          195
+  y1width:    1.13760925224930     
+  y2width:    7.88841421911046     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773025734262175     
+  VarLogY, target:   0.677315771579742       model:   0.704311432570171     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077620465944215E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2639156649984     
+  VarD5LogY, target:   0.179346859455109       model:   0.189639128480418     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2723974041562     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.609756100954814E-002
+  
+ *********************************
+ EVALUATION NUMBER:          196
+  y1width:    1.13766658725396     
+  y2width:    7.88837985395580     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773029259358757     
+  VarLogY, target:   0.677315771579742       model:   0.704315226719049     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078005698986372E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2621166186035     
+  VarD5LogY, target:   0.179346859455109       model:   0.189648698994336     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2718280232769     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610344292513826E-002
+  
+ *********************************
+ EVALUATION NUMBER:          197
+  y1width:    1.13767007298160     
+  y2width:    7.88842339365976     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773018784678077     
+  VarLogY, target:   0.677315771579742       model:   0.704347562789379     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.078000936703109E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2617354076624     
+  VarD5LogY, target:   0.179346859455109       model:   0.189719177966916     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2891051854881     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.637961160970209E-002
+  
+ *********************************
+ EVALUATION NUMBER:          198
+  y1width:    1.13763572235982     
+  y2width:    7.88839337308440     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773040041956935     
+  VarLogY, target:   0.677315771579742       model:   0.704334225016646     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077848335535892E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2636429737135     
+  VarD5LogY, target:   0.179346859455109       model:   0.189647402398387     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2722463500989     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.611066836885002E-002
+  
+ *********************************
+ EVALUATION NUMBER:          199
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871574994167407     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          200
+  y1width:    1.13761931132840     
+  y2width:    7.88838979577739     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773033820386740     
+  VarLogY, target:   0.677315771579742       model:   0.704319606567010     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077712291408681E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2638545365037     
+  VarD5LogY, target:   0.179346859455109       model:   0.189642551890058     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2723564300390     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610304635004177E-002
+  
+ *********************************
+ EVALUATION NUMBER:          201
+  y1width:    1.13765557095015     
+  y2width:    7.88840412325130     
+  y1gridpar:   0.871554020119190     
+  y2gridpar:   0.773027542031060     
+  VarLogY, target:   0.677315771579742       model:   0.704314419510569     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077933400423948E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2624991578757     
+  VarD5LogY, target:   0.179346859455109       model:   0.189649013216208     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2717418468975     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610224191703437E-002
+  
+ *********************************
+ EVALUATION NUMBER:          202
+  y1width:    1.13763272063560     
+  y2width:    7.88839175458184     
+  y1gridpar:   0.871564507475234     
+  y2gridpar:   0.773038970833024     
+  VarLogY, target:   0.677315771579742       model:   0.704331525168598     
+  VarD1LogY, target:   4.976493865251541E-002  model:   5.077823398920302E-002
+  KurtD1LogY, target:    18.6184825897217       model:    19.2636801190037     
+  VarD5LogY, target:   0.179346859455109       model:   0.189646512308884     
+  KurtD5LogY, target:    9.04785060882568       model:    10.2722657548227     
+  FracD1Less10, target:   0.717400014400482       model: 
+  0.740299999713898     
+  FracD1Less20, target:   0.844600021839142       model: 
+  0.793380022048950     
+  FracD1Less50, target:   0.949199974536896       model: 
+  0.947380006313324     
+  objective fun:   4.610925488860577E-002
+  
+ ********************************** 
