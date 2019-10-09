@@ -155,14 +155,14 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 rho		=  2.25E-002!2.509244262088321E-002
 
 !preferences
-deathrate	= 1.0/(4.0*30.0) !1.0/(4.0*45.0) !poisson death rate
+deathrate	= 1.0/(4.0*45.0) !poisson death rate
 gam				= 1.0	!risk aversion
 prefshock	= 1.0
 
 
 
 !liquid assets
-rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
+rb					= 0.06/4.0 !liquid return 3% for Mexico in real termsm
 borrwedge 	= 2.5E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -0.5!-1.0 	!borrowing limit multiple of quarterly output
