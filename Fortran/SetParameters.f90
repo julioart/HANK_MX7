@@ -29,8 +29,8 @@ ReportNonMonotonicity   = 0
 CalibrateDiscountRate	= 0
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 1
-DoPriceExperiments		= 1!1
+DoImpulseResponses 		= 0
+DoPriceExperiments		= 0!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
 ComputeDiscountedMPC 	= 1!1
@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 0
+CalibrateCostFunction				= 1
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -58,7 +58,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -92,25 +92,25 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
-EstimateKappa1		= 0
-EstimateKappa2		= 0
+EstimateKappa0		= 1
+EstimateKappa1		= 1
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
-EstimateRho				= 0
-EstimateBorrWedge	= 0
+EstimateRho				= 1
+EstimateBorrWedge	= 1
 EstimateGamma			= 0
 
 
-MatchMeanIll		= 0!1 !FOR MEXICO, MATCH THIS ONE
+MatchMeanIll		= 1!1 !FOR MEXICO, MATCH THIS ONE
 MatchKYratio		= 0 !DO NOT MATCH THIS ONE
 MatchMedianIll	= 0
 MatchP75Ill			= 0
 MatchFracIll0		= 0
 MatchMeanLiq		= 0 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
 MatchMedianLiq	= 0
-MatchFracLiq0		= 0!1
-MatchFracLiqNeg	= 0!1
+MatchFracLiq0		= 1!1
+MatchFracLiqNeg	= 1!1
 MatchFracIll0Liq0 = 1!0
 
 defnbclose			= 0.0
