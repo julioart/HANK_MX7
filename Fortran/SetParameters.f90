@@ -15,7 +15,7 @@ REAL 		:: la,lb,lc
 
 !OUTPUT DIR
 OutputDir =	"~/FortranOutputDir/MXtry7/"
-EarningsProcessDir	= "earnings_input_MX/ave"
+EarningsProcessDir	= "earnings_input_MX/H3"
 
 CALL system ("mkdir -p " // trim(OutputDir))
 
