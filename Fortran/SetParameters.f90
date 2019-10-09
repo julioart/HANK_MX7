@@ -93,7 +93,7 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 !CALIBRATION OPTIONS
 EstimateKappa0		= 1
-EstimateKappa1		= 1
+EstimateKappa1		= 0
 EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
