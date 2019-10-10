@@ -92,14 +92,14 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 
 !CALIBRATION OPTIONS
-EstimateKappa0		= 0
+EstimateKappa0		= 1
 EstimateKappa1		= 0
-EstimateKappa2		= 0
+EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 1
 EstimateBorrWedge	= 1
-EstimateGamma			= 0
+EstimateGamma			= 1
 
 
 MatchMeanIll		= 1!1 !FOR MEXICO, MATCH THIS ONE
@@ -107,7 +107,7 @@ MatchKYratio		= 0 !DO NOT MATCH THIS ONE
 MatchMedianIll	= 0
 MatchP75Ill			= 0
 MatchFracIll0		= 0
-MatchMeanLiq		= 0 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
+MatchMeanLiq		= 1 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
 MatchMedianLiq	= 0
 MatchFracLiq0		= 1!1
 MatchFracLiqNeg	= 1!1
@@ -152,10 +152,10 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.25E-002!2.509244262088321E-002
+rho		=  2.407747060021942E-002!2.00405283126329E-002!
 
 !preferences
-deathrate	= 1.0/(4.0*45.0) !poisson death rate
+deathrate	= 1.0/(4.0*45.0) !1.0/(4.0*45.0) !poisson death rate
 gam				= 1.0	!risk aversion
 prefshock	= 1.0
 
@@ -163,9 +163,9 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 2.5E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 3.250604429332765E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
-blim 		 		= -0.5!-1.0 	!borrowing limit multiple of quarterly output
+blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
 rborr = rb + borrwedge
 
@@ -232,7 +232,7 @@ targetFracIll0Liq0= 0.32
 ! All hand to mouth
 targetFracLiq0 		= 0.50 ! Rich HtM = targetFracLiq0 - targetFracIll0Liq0
 ! Indebted HH
-targetFracLiqNEG	= 0.11
+targetFracLiqNEG	= 0.10
 ! HH without illiui wealth (at least equal to targetFracIll0Liq0)
 targetFracIll0 		= 0.30 + 0.20 !NOT REALLY A TARGET
 
@@ -263,8 +263,8 @@ KYratio = targetKYratio
 KNratio = (tfp*KYratio)**(1.0/(1.0-alpha))
 
 ! Results from previous CALIBRATION
-KYratio  =  7.08329597933837
-KNratio  =  18.5783897143140
+!KYratio  =  7.00854349589436
+!KNratio  =  18.2865184767534
 
 rcapital = mc*alpha/KYratio
 wage = mc*(1.0-alpha)*tfp*(KNratio**alpha)
