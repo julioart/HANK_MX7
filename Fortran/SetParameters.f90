@@ -48,7 +48,7 @@ AdjustProdGridFrisch 	= 1
 adjfricshgridfrac = 0.85 !fraction of Frisch to adjust by
 
 !calibration options
-CalibrateCostFunction				= 1
+CalibrateCostFunction				= 0
 CalibrateRhoAtInitialGuess  = 0
 MatchRelativeToTargetOutput	= 0
 ImposeEqumInCalibration 		= 0
@@ -152,7 +152,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  2.407747060021942E-002!2.00405283126329E-002!
+rho		=  2.791560770617128E-002!2.00405283126329E-002!
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !1.0/(4.0*45.0) !poisson death rate
@@ -163,7 +163,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 3.250604429332765E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 3.092816148916026E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
