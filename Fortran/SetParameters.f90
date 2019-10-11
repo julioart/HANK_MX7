@@ -15,6 +15,7 @@ REAL 		:: la,lb,lc
 
 !OUTPUT DIR
 OutputDir =	"~/FortranOutputDir/MXtry7/"
+!EarningsProcessDir	= "earnings_input_MX/ave"
 EarningsProcessDir	= "earnings_input_MX/H3"
 
 CALL system ("mkdir -p " // trim(OutputDir))
@@ -93,13 +94,13 @@ ForwardGuideShockQtrs 	= 9 !number of quarters in advance (set phifg below)
 
 !CALIBRATION OPTIONS
 EstimateKappa0		= 1
-EstimateKappa1		= 0
+EstimateKappa1		= 1
 EstimateKappa2		= 1
 EstimateKappa3		= 0
 EstimateKappa4		= 0
 EstimateRho				= 1
 EstimateBorrWedge	= 1
-EstimateGamma			= 1
+EstimateGamma			= 0
 
 
 MatchMeanIll		= 1!1 !FOR MEXICO, MATCH THIS ONE
@@ -107,7 +108,7 @@ MatchKYratio		= 0 !DO NOT MATCH THIS ONE
 MatchMedianIll	= 0
 MatchP75Ill			= 0
 MatchFracIll0		= 0
-MatchMeanLiq		= 1 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
+MatchMeanLiq		= 0 !FOR MEXICO, MODEL PERFORMS BAD WITH THIS MOMENT... DO NOT MATCH
 MatchMedianLiq	= 0
 MatchFracLiq0		= 1!1
 MatchFracLiqNeg	= 1!1
@@ -152,18 +153,18 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  3E-002!2.791560770617128E-002!2.00405283126329E-002!
+rho		=  0.028!2.901665805641798E-002!2.460955659719565E-002!2.00405283126329E-002!
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !1.0/(4.0*45.0) !poisson death rate
-gam				= 1.0	!risk aversion
+gam				= 1.0!0.689774117018576!3.25349845783924!1.0	!risk aversion
 prefshock	= 1.0
 
 
 
 !liquid assets
-rb					= 0.055/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 4E-002!3.092816148916026E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
+rb					= 0.04/4.0 !liquid return 3% for Mexico in real termsm
+borrwedge 	= 0.031!2.949689906611905E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -171,12 +172,12 @@ rborr = rb + borrwedge
 
 
 !withdrawal costs
-kappa0_w	= 4.382999986410141E-002!0.199282745618653
-kappa2_w	= 0.482359932161890!6.30772933629065
+kappa0_w	= 0.01!5.776279371935739E-002!0.195574623851457!2.722965967899513E-002!0.199282745618653
+kappa2_w	= 0.65!12.4280701293230!1.500683478013!1.15!0.385841044826999!6.30772933629065
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  0.401760011911392!4.911052505244916E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  2.5!3.04307622029432!5.401760011911392!4.911052505244916E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
