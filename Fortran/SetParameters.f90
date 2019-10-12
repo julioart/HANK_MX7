@@ -69,7 +69,7 @@ bondadjust 									= 0.1 !more responsive interest rate when closer to zero
 DividendFundLumpSum 			= 1
 DistributeProfitsInProportion 	= 1 !distributes profdistfrac of profits as dividends, and (1-profdistfrac) to households in proportion to productivity
 !profdistfrac 					= 0.33 !set to alpha to neutralize effect of profits on redistribution between liquid and illiquid assets
-profdistfrac 							= 0.27!0.33 !set higher than alpha to decrease response of investment
+profdistfrac 							= 0.33!0.33 !set higher than alpha to decrease response of investment
 TaxHHProfitIncome 				= 1 !taxes profit income at labor tax rate if DistributeProfitsInProportion = 1
 
 
