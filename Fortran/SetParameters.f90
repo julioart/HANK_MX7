@@ -30,8 +30,8 @@ ReportNonMonotonicity   = 0
 CalibrateDiscountRate	= 0
 EquilibriumR		 			= 1
 ComputeCumulativeMPC 	= 1
-DoImpulseResponses 		= 1
-DoPriceExperiments		= 1!1
+DoImpulseResponses 		= 0
+DoPriceExperiments		= 0!1
 SaveTime1PolicyFns 		= 1
 SaveCumPolicyFnsIRF 	= 0
 ComputeDiscountedMPC 	= 1!1
@@ -59,7 +59,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
@@ -153,7 +153,7 @@ deltacumcon = 0.01 !deltatransmin !0.01 !set to a low number like 0.01 for accur
 !=======================================================
 !=======================================================
 !discount rates
-rho		=  0.028!2.901665805641798E-002!2.460955659719565E-002!2.00405283126329E-002!
+rho		=  0.03!2.901665805641798E-002!2.460955659719565E-002!2.00405283126329E-002!
 
 !preferences
 deathrate	= 1.0/(4.0*45.0) !1.0/(4.0*45.0) !poisson death rate
@@ -163,8 +163,8 @@ prefshock	= 1.0
 
 
 !liquid assets
-rb					= 0.04/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 0.031!2.949689906611905E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
+rb					= 0.05/4.0 !liquid return 3% for Mexico in real termsm
+borrwedge 	= 0.032!2.949689906611905E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -173,11 +173,11 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 0.01!5.776279371935739E-002!0.195574623851457!2.722965967899513E-002!0.199282745618653
-kappa2_w	= 0.65!12.4280701293230!1.500683478013!1.15!0.385841044826999!6.30772933629065
+kappa2_w	= 0.4!0.65!12.4280701293230!1.500683478013!1.15!0.385841044826999!6.30772933629065
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  2.5!3.04307622029432!5.401760011911392!4.911052505244916E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  2!3.04307622029432!5.401760011911392!4.911052505244916E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
