@@ -164,7 +164,7 @@ prefshock	= 1.0
 
 !liquid assets
 rb					= 0.04/4.0 !liquid return 3% for Mexico in real termsm
-borrwedge 	= 0.035!2.949689906611905E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
+borrwedge 	= 0.031!2.949689906611905E-002!3.786671548864427E-002!2.2E-002!2.294040601712359E-002  !quarterly wedge between rb and rborr: intermediation cost
 borrwedgemax= 0.09
 blim 		 		= -1.0 	!borrowing limit multiple of quarterly output
 
@@ -173,11 +173,11 @@ rborr = rb + borrwedge
 
 !withdrawal costs
 kappa0_w	= 0.01!5.776279371935739E-002!0.195574623851457!2.722965967899513E-002!0.199282745618653
-kappa2_w	= 0.4!0.65!12.4280701293230!1.500683478013!1.15!0.385841044826999!6.30772933629065
+kappa2_w	= 0.65!0.65!12.4280701293230!1.500683478013!1.15!0.385841044826999!6.30772933629065
 kappa3		= 0.05!MUST BE GREATER THAN ZERO... IT'S A bug
 kappa4_w 	= 0.0
 
-IF(PinKappa1ByKappa02==0) kappa1_w	=  2!3.04307622029432!5.401760011911392!4.911052505244916E-002
+IF(PinKappa1ByKappa02==0) kappa1_w	=  2.5!3.04307622029432!5.401760011911392!4.911052505244916E-002
 IF(PinKappa1ByKappa02==1) kappa1_w	= ((1.0-kappa0_w)*(1.0+kappa2_w))**(-1.0/kappa2_w)
 
 kappa2min   = 0.05 !to make sure there is enough curvature for calibration
