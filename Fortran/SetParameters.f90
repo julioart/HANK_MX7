@@ -158,7 +158,7 @@ rho		=  0.028!2.901665805641798E-002!2.460955659719565E-002!2.00405283126329E-00
 !preferences
 deathrate	= 1.0/(4.0*45.0) !1.0/(4.0*45.0) !poisson death rate
 gam				= 1.0!0.689774117018576!3.25349845783924!1.0	!risk aversion
-prefshock	= 1.0
+prefshock	= 1.00
 
 
 
