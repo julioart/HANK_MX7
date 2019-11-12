@@ -59,7 +59,7 @@ OneAssetNoCapital		= 0
 PinKappa1ByKappa02 	= 0!1
 
 !transition computation options
-SolveStickyPriceTransition	= 1 !MUST BE 1 TO COMPUTE IRFs
+SolveStickyPriceTransition	= 0 !MUST BE 1 TO COMPUTE IRFs
 ConvergenceRelToOutput 			= 1
 FirmDiscountRate						= 5	!1 for rho, 2 for rb initial steady state, 3 for ra initial steady state, 4 for rb transition, 5 for ra transition
 bondelastrelgdp 						= 1.0 !bigger for smaller interest rate movements, closer to zero for larger interest rate movements. relative to steady state gdp
