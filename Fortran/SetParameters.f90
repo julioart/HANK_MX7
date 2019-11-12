@@ -74,8 +74,8 @@ TaxHHProfitIncome 				= 1 !taxes profit income at labor tax rate if DistributePr
 
 
 !government bc options
-AdjGovBudgetConstraint 		= 1 !1 for adjust spending, 2 for adjust lump sum taxes, 3 for let debt adjust (choose options below for financing), 4 for adjust proportional tax
-GovExpConstantFracOutput 	= 0 !only active if AdjGovBudgetConstraint==3
+AdjGovBudgetConstraint 		= 3 !1 for adjust spending, 2 for adjust lump sum taxes, 3 for let debt adjust (choose options below for financing), 4 for adjust proportional tax
+GovExpConstantFracOutput 	= 1 !only active if AdjGovBudgetConstraint==3
 taxincrstart 		= 1 !quarters after shock that fiscal policy adjusts
 taxincrdecay 		= 0.02 !decay rate for tax increase higher for faster decay
 
